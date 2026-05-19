@@ -1,0 +1,24 @@
+{
+  "isVip": true,
+  "discountPct": 50,
+  "freeShippingThreshold": 0,
+  "deployRepo": "lenvoshop-vip",
+  "benefits": {
+    "giftCardAmount": 20,
+    "giftCardPeriod": "monthly",
+    "discountCopy": "50% off every product",
+    "shippingCopy": "Free shipping always",
+    "giftCardCopy": "$20 gift card every month",
+    "exclusivityCopy": "VIP-only store"
+  },
+  "branding": {
+    "topbarPrefix": "VIP Members Only",
+    "heroEyebrow": "Lenvoshop VIP",
+    "heroH1": "Welcome back. Your prices are 50% off — every single product, every order.",
+    "heroSub": "Free shipping. $20 gift card every month. Exclusive access to your store.",
+    "heroCta": "Shop the VIP Catalog →"
+  },
+  "merchandising_notes": {
+    "_comment": "$20 monthly gift card and 'exclusive discounts' are merchandising copy. The 50% pricing IS the exclusive discount. Gift card distribution is wired by the owner's CRM, not this site."
+  }
+}
