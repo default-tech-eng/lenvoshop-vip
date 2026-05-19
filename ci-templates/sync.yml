@@ -1,0 +1,68 @@
+name: Sync product catalog
+
+on:
+  schedule:
+    # Daily at 06:00 UTC (~01:00 ET, ~22:00 PT). Adjust as needed.
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (no writes)'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write   # needed to commit data/products.json + asset_map.json + working/assets/
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run sync
+        id: sync
+        env:
+          SYNC_API_BASE: ${{ vars.SYNC_API_BASE || 'https://api.lenvoshop.com/api/v1' }}
+          SYNC_LOCALE: ${{ vars.SYNC_LOCALE || 'en' }}
+          SYNC_DOWNLOAD_IMAGES: ${{ vars.SYNC_DOWNLOAD_IMAGES || '1' }}
+          SYNC_MAX_PAGES: ${{ vars.SYNC_MAX_PAGES || '200' }}
+          SYNC_DRY_RUN: ${{ inputs.dry_run == 'true' && '1' || '0' }}
+        run: |
+          set +e
+          node scripts/sync.js
+          code=$?
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          # 0 = no changes, 10 = changes written, anything else = failure
+          if [ "$code" -ne 0 ] && [ "$code" -ne 10 ]; then exit "$code"; fi
+
+      - name: Commit changes
+        if: steps.sync.outputs.exit_code == '10'
+        run: |
+          git config user.name "lenvoshop-sync-bot"
+          git config user.email "noreply@anthropic.com"
+          git add data/products.json asset_map.json working/assets/ || true
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git commit -m "sync: catalog update from $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+          echo "✓ Committed and pushed."
+
+      - name: Trigger deploy
+        if: steps.sync.outputs.exit_code == '10'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'deploy.yml',
+              ref: 'main',
+            });
+            console.log('Deploy dispatched.');
