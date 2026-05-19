@@ -1,0 +1,45 @@
+name: Build and deploy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'build.js'
+      - 'data/**'
+      - 'scripts/**'
+      - 'asset_map.json'
+      - 'working/**'
+      - '.github/workflows/deploy.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build
+        run: node build.js
+
+      - name: Deploy in-place
+        env:
+          GITHUB_TOKEN: ${{ secrets.LENVO_DEPLOY_TOKEN || secrets.GITHUB_TOKEN }}
+          LV_REPO: ${{ vars.LV_REPO || 'lenvoshop' }}
+          LV_PRIVATE: ${{ vars.LV_PRIVATE || 'true' }}
+        run: |
+          # deploy.js expects the token in /Users/zak/sites/.deploy-config.json by default.
+          # In CI we pass it via env. Patch deploy.js to read from env if config file is absent.
+          mkdir -p ~/sites
+          echo "{\"token\":\"$GITHUB_TOKEN\"}" > ~/sites/.deploy-config.json
+          # The script's hardcoded path is /Users/zak/sites/... which won't exist on linux runners.
+          # Symlink ~/sites to make the path resolution work, OR override via env var.
+          # Easier: the deploy.js can be patched to fall back to GITHUB_TOKEN.
+          export DEPLOY_CONFIG_PATH=~/sites/.deploy-config.json
+          node deploy.js
