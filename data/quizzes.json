@@ -1,0 +1,411 @@
+[
+  {
+    "slug": "gift-finder",
+    "title": "Lenvoshop Gift Finder",
+    "eyebrow": "Gift Match",
+    "lead": "Three quick questions about who you're shopping for and we'll pick three gifts they'll genuinely use. No email, no spam — instant recommendations.",
+    "coverSku": "AG157",
+    "questions": [
+      {
+        "id": "recipient",
+        "question": "Who is the gift for?",
+        "options": [
+          { "value": "self",        "label": "Myself (treat me)", "emoji": "👤" },
+          { "value": "mom",         "label": "Mom",               "emoji": "👩" },
+          { "value": "dad",         "label": "Dad",               "emoji": "👨" },
+          { "value": "grandparent", "label": "Grandparent",       "emoji": "👴" },
+          { "value": "partner",     "label": "Partner / spouse",  "emoji": "💑" },
+          { "value": "friend",      "label": "A friend",          "emoji": "🫶" }
+        ]
+      },
+      {
+        "id": "vibe",
+        "question": "What kind of gift feels most you?",
+        "options": [
+          { "value": "practical",  "label": "Practical, problem-solving", "emoji": "🛠️" },
+          { "value": "wellness",   "label": "Comfort, wellness",          "emoji": "🌿" },
+          { "value": "tech",       "label": "Smart / tech-forward",       "emoji": "🔌" },
+          { "value": "thoughtful", "label": "Thoughtful little touches",  "emoji": "💌" }
+        ]
+      },
+      {
+        "id": "budget",
+        "question": "Rough budget?",
+        "options": [
+          { "value": "low",  "label": "Under $40",                     "emoji": "💵" },
+          { "value": "mid",  "label": "$40 – $80",                     "emoji": "💵💵" },
+          { "value": "high", "label": "$80 +",                          "emoji": "💎" },
+          { "value": "any",  "label": "No budget — show me the best",   "emoji": "✨" }
+        ]
+      }
+    ],
+    "outcomes": {
+      "mom-wellness-any":      { "headline": "For Mom — the wellness trio", "why": "Foot massager for tired feet, neck/TMJ device for headaches, ergonomic pillow for actual sleep. Three small problems she's living with that this fixes.", "sku": ["BC446-2", "AG161", "8740328046822"] },
+      "mom-thoughtful-low":    { "headline": "For Mom — the cozy starter", "why": "Reading light for late chapters, charming ceramic mug, soft pillowcase. A small bundle of warm-and-quiet upgrades.", "sku": ["H909", "BC376", "8788987248870"] },
+      "mom-practical-any":     { "headline": "For Mom — practical relief", "why": "Foot massager + reading light + air purifier. Three things she'll use this week and remember you for.", "sku": ["BC446-2", "H909", "BC537"] },
+      "mom-default":           { "headline": "For Mom — solid pick", "why": "Foot massager, reading light, ergonomic pillow. The Mother's Day trio that consistently gets the 'this is the best gift' reaction.", "sku": ["BC446-2", "H909", "8740328046822"] },
+
+      "dad-practical-any":     { "headline": "For Dad — the toolbox", "why": "Three-in-one laser level + cordless car-wash gun + plug-in power saver. The practical-and-useful trio every dad puts to work the same weekend.", "sku": ["8797054796006", "BC632", "8530813124838"] },
+      "dad-tech-any":          { "headline": "For Dad — gadget mode", "why": "Pocket anti-spy detector, privacy pen, GPS pet collar. The 'huh, I didn't know I needed that' lineup.", "sku": ["h5001", "BC613", "AG136"] },
+      "dad-wellness-any":      { "headline": "For Dad — recovery kit", "why": "Triple Fusion massager for the back, foot massager for tired feet, alarm band for early mornings. For the dad who never says he's hurting.", "sku": ["AG157", "BC446-2", "AG179"] },
+      "dad-default":           { "headline": "For Dad — practical legend", "why": "Laser level + carwash gun + anti-spy detector. Tools, gadgets, conversation pieces — all under $200.", "sku": ["8797054796006", "BC632", "h5001"] },
+
+      "grandparent-wellness-any":   { "headline": "For Grandparents — relief that earns its keep", "why": "Triple Fusion massager + foot massager + neck/TMJ relief. Three real complaints, three quiet fixes.", "sku": ["AG157", "BC446-2", "AG161"] },
+      "grandparent-thoughtful-any": { "headline": "For Grandparents — small but loved", "why": "Clip-on reading light + anti-snore pillow + charming mug. Daily-use gifts that stay on the nightstand for years.", "sku": ["H909", "8740328046822", "BC376"] },
+      "grandparent-tech-any":       { "headline": "For Grandparents — smart and simple", "why": "CO/gas detector, vibration alarm band, plug-in power saver. Tech that's helpful without being complicated.", "sku": ["AG180", "AG179", "8530813124838"] },
+      "grandparent-default":        { "headline": "For Grandparents — the classic", "why": "Triple Fusion + foot massager + reading light. The wellness trio we recommend most for parents and grandparents.", "sku": ["AG157", "BC446-2", "H909"] },
+
+      "self-wellness-any":     { "headline": "Treat yourself — the wellness reset", "why": "Triple Fusion massager, anti-snore pillow, reading light. Three 'I deserved this' upgrades you'll use every day.", "sku": ["AG157", "8740328046822", "H909"] },
+      "self-tech-any":         { "headline": "Treat yourself — gadget tier", "why": "Anti-spy detector, privacy pen, vibration alarm band. Pocket-size clever every traveler appreciates.", "sku": ["h5001", "BC613", "AG179"] },
+      "self-practical-any":    { "headline": "Treat yourself — useful upgrade", "why": "Desktop air cooler, ergonomic pillow, reading light. Comfort hits in three rooms.", "sku": ["BC647", "8740328046822", "H909"] },
+      "self-default":          { "headline": "Treat yourself — solid trio", "why": "Triple Fusion massager, desktop cooler, anti-snore pillow. Three upgrades you'll thank yourself for.", "sku": ["AG157", "BC647", "8740328046822"] },
+
+      "partner-wellness-any":  { "headline": "For your partner — couples wellness", "why": "Triple Fusion + foot massager + anti-snore pillow. Pain relief and a quieter night for both of you.", "sku": ["AG157", "BC446-2", "8740328046822"] },
+      "partner-thoughtful-any":{ "headline": "For your partner — the small luxe", "why": "Reading light + soft pillowcase + charming mug. Quiet upgrades to evenings together.", "sku": ["H909", "8788987248870", "BC376"] },
+      "partner-default":       { "headline": "For your partner — couples kit", "why": "Triple Fusion massager + reading light + ergonomic pillow. A 'better-evenings' bundle.", "sku": ["AG157", "H909", "8740328046822"] },
+
+      "friend-thoughtful-low": { "headline": "For a friend — pocket-size charm", "why": "Privacy pen + charming mug + reading light. Three under-$50 picks that earn the genuine 'oh I love this' reaction.", "sku": ["BC613", "BC376", "H909"] },
+      "friend-tech-any":       { "headline": "For a friend — clever gadget", "why": "Anti-spy detector, privacy pen, vibration alarm band. Travel-friendly, conversation-starting, useful.", "sku": ["h5001", "BC613", "AG179"] },
+      "friend-default":        { "headline": "For a friend — easy win", "why": "Charming mug, reading light, privacy pen. Hard to dislike, easy to wrap.", "sku": ["BC376", "H909", "BC613"] },
+
+      "default": { "headline": "A solid gift trio", "why": "Three picks that consistently get the 'thoughtful' reaction.", "sku": ["AG157", "BC446-2", "H909"] }
+    }
+  },
+
+  {
+    "slug": "cooling-match",
+    "title": "Build Your Perfect Cooling Setup",
+    "eyebrow": "Beat the Heat",
+    "lead": "Tell us about your space and how you're suffering — we'll pick the three cooling products that'll actually make the next heatwave bearable.",
+    "coverSku": "BC647",
+    "questions": [
+      {
+        "id": "where",
+        "question": "Where do you spend the hottest hours?",
+        "options": [
+          { "value": "desk",     "label": "At my desk (WFH or office)", "emoji": "💻" },
+          { "value": "bedroom",  "label": "Bedroom / can't sleep when hot", "emoji": "🛏️" },
+          { "value": "outside",  "label": "Outside / commuting / moving around", "emoji": "🚶" },
+          { "value": "living",   "label": "Living room / common spaces", "emoji": "🛋️" }
+        ]
+      },
+      {
+        "id": "size",
+        "question": "How big is the space you need to cool?",
+        "options": [
+          { "value": "small",  "label": "Small — single room or desk",       "emoji": "🔹" },
+          { "value": "medium", "label": "Medium — bedroom or living room",    "emoji": "🔸" },
+          { "value": "large",  "label": "Large — open plan or whole apartment", "emoji": "🔶" }
+        ]
+      },
+      {
+        "id": "pain",
+        "question": "What's bothering you most?",
+        "options": [
+          { "value": "noise",   "label": "Current fan is too loud",          "emoji": "🔊" },
+          { "value": "bill",    "label": "AC bill is killing me",            "emoji": "💸" },
+          { "value": "sleep",   "label": "Can't sleep when it's hot",        "emoji": "😴" },
+          { "value": "air",     "label": "Air quality (pollen / smoke / dust)", "emoji": "🌫️" }
+        ]
+      }
+    ],
+    "outcomes": {
+      "desk-small-noise":   { "headline": "Whisper-quiet desk cooling", "why": "Personal air cooler runs quiet enough for video calls, ionic purifier is silent, ergonomic pillow for the heat-disrupted nights.", "sku": ["BC647", "AG100", "8740328046822"] },
+      "desk-small-bill":    { "headline": "Cool the human, not the room", "why": "Desk cooler + ionic purifier — efficient personal cooling that lets you bump the AC up 5°F. Pays for itself the first month.", "sku": ["BC647", "AG100", "8748353192166"] },
+      "desk-default":       { "headline": "Desk-warrior cooling kit", "why": "Personal air cooler at the desk, ionic purifier for stale office air, neck fan for the walk to lunch.", "sku": ["BC647", "AG100", "8748353192166"] },
+
+      "bedroom-medium-sleep": { "headline": "Bedroom cooling for sleep", "why": "Slim tower fan with strong wind output, ergonomic anti-snore pillow, true-HEPA purifier so closed windows don't trap stale air. Sleep through 90°F nights.", "sku": ["8758149218534", "8740328046822", "BC537"] },
+      "bedroom-large-sleep":  { "headline": "Whole-bedroom + airflow", "why": "Tower fan as the room circulator, summer cooling fan as the second-zone helper, anti-snore pillow for the sleep itself.", "sku": ["8758149218534", "8758529163494", "8740328046822"] },
+      "bedroom-default":      { "headline": "Sleep cool tonight", "why": "Tower fan, ergonomic pillow, HEPA purifier — the bedroom trio.", "sku": ["8758149218534", "8740328046822", "BC537"] },
+
+      "outside-small-default": { "headline": "Take it with you", "why": "Hands-free wearable neck fan + grab-and-go portable + foldable companion fan. Cools the human regardless of room.", "sku": ["8748353192166", "8758551347430", "8758529163494"] },
+      "outside-default":       { "headline": "Outdoor & commute kit", "why": "Neck fan + portable + tower fan for when you finally get home. Three forms of cooling for three settings.", "sku": ["8748353192166", "8758551347430", "8758149218534"] },
+
+      "living-large-air":   { "headline": "Open-plan living-room cooling", "why": "Tower fan as the main mover, summer cooling fan as the secondary, true-HEPA purifier for the dust kicked up by both.", "sku": ["8758149218534", "8758529163494", "BC537"] },
+      "living-default":     { "headline": "Living-room cooling", "why": "Tower fan, summer portable, plug-in ionic purifier. Covers the room and the air quality together.", "sku": ["8758149218534", "8758529163494", "AG100"] },
+
+      "default": { "headline": "Beat the heat — solid trio", "why": "Personal air cooler, tower fan, neck fan. The cooling trio we recommend most.", "sku": ["BC647", "8758149218534", "8748353192166"] }
+    }
+  },
+
+  {
+    "slug": "wellness-match",
+    "title": "Which Massager Is Right for Your Body?",
+    "eyebrow": "Body Mechanics",
+    "lead": "Tell us where it hurts, how often, and where you'd use the device — we'll match you with the relief setup that targets exactly that.",
+    "coverSku": "AG157",
+    "questions": [
+      {
+        "id": "where",
+        "question": "Where's the main complaint?",
+        "options": [
+          { "value": "back",     "label": "Lower back / sciatica",     "emoji": "🦴" },
+          { "value": "neck",     "label": "Neck / shoulders / TMJ",    "emoji": "🤕" },
+          { "value": "feet",     "label": "Feet / legs / circulation", "emoji": "🦵" },
+          { "value": "joints",   "label": "Wrist / knee / joints",     "emoji": "🦴" },
+          { "value": "fatigue",  "label": "Whole-body fatigue",        "emoji": "😮‍💨" }
+        ]
+      },
+      {
+        "id": "frequency",
+        "question": "How often is it bothering you?",
+        "options": [
+          { "value": "daily",    "label": "Daily — chronic",                 "emoji": "📆" },
+          { "value": "weekly",   "label": "Weekly — after long days/workouts", "emoji": "🏃" },
+          { "value": "flares",   "label": "Occasional flare-ups",            "emoji": "⚡" }
+        ]
+      },
+      {
+        "id": "use",
+        "question": "Where would you use it most?",
+        "options": [
+          { "value": "desk",     "label": "At my desk during the day",  "emoji": "💻" },
+          { "value": "bed",      "label": "In bed before sleep",        "emoji": "🛏️" },
+          { "value": "couch",    "label": "Couch / TV time",            "emoji": "🛋️" },
+          { "value": "portable", "label": "Need it portable / on-the-go", "emoji": "🎒" }
+        ]
+      }
+    ],
+    "outcomes": {
+      "back-daily-couch":  { "headline": "Daily back-relief routine", "why": "Triple Fusion massager + decompression belt + ergonomic pillow. Heat + EMS + traction in 30 minutes a day. Real difference in a week.", "sku": ["AG157", "8644154786022", "8740328046822"] },
+      "back-daily-bed":    { "headline": "Bedtime back reset", "why": "Decompression belt for 20 lying-down minutes, anti-snore pillow for support, Triple Fusion for targeted spots. Wake up unwound.", "sku": ["8644154786022", "8740328046822", "AG157"] },
+      "back-default":      { "headline": "Back-pain trio", "why": "Triple Fusion + decompression belt + anti-snore pillow. Three angles on lower-back relief.", "sku": ["AG157", "8644154786022", "8740328046822"] },
+
+      "neck-daily-default":   { "headline": "Neck/TMJ everyday relief", "why": "Neck/TMJ device for tension, Triple Fusion for shoulders and traps, ergonomic pillow so you don't undo the work overnight.", "sku": ["AG161", "AG157", "8740328046822"] },
+      "neck-default":         { "headline": "Neck & shoulders kit", "why": "Targeted heat+vibration for the neck, Triple Fusion for the bigger muscles, pillow for sleep posture.", "sku": ["AG161", "AG157", "8740328046822"] },
+
+      "feet-daily-default":   { "headline": "End-of-day foot recovery", "why": "Triple Therapy foot massager + EMS leg pad + reading light for the wind-down. Tired feet, tired legs, calmer evenings.", "sku": ["BC446-2", "B35", "H909"] },
+      "feet-default":         { "headline": "Feet & legs relief", "why": "Foot massager, EMS leg pad, decompression belt. Targets feet, calves, and the sciatic chain together.", "sku": ["BC446-2", "B35", "8644154786022"] },
+
+      "joints-default":       { "headline": "Joint relief setup", "why": "2-in-1 wrist & knee massager + Triple Fusion for surrounding muscles + reading light for after.", "sku": ["AG29", "AG157", "H909"] },
+
+      "fatigue-default":      { "headline": "Full-body recovery kit", "why": "Triple Fusion for the back, foot massager for the legs, anti-snore pillow for the sleep. Whole-body reset.", "sku": ["AG157", "BC446-2", "8740328046822"] },
+
+      "default": { "headline": "Recovery starter kit", "why": "Triple Fusion massager, foot massager, ergonomic pillow. The relief trio we recommend most.", "sku": ["AG157", "BC446-2", "8740328046822"] }
+    }
+  },
+
+  {
+    "slug": "sleep-match",
+    "title": "What's Killing Your Sleep?",
+    "eyebrow": "Better Tomorrow",
+    "lead": "Most sleep complaints fall into a few clear buckets. Tell us yours and we'll pick the three things most likely to fix it tonight.",
+    "coverSku": "8740328046822",
+    "questions": [
+      {
+        "id": "issue",
+        "question": "What's your biggest sleep issue?",
+        "options": [
+          { "value": "snore",   "label": "Snoring (mine or my partner's)", "emoji": "😴" },
+          { "value": "hot",     "label": "Hot bedroom",                    "emoji": "🥵" },
+          { "value": "sore",    "label": "Wake up sore (neck/back)",       "emoji": "😣" },
+          { "value": "fall",    "label": "Can't fall asleep",              "emoji": "🌙" },
+          { "value": "wake",    "label": "Can't wake up gently",           "emoji": "⏰" }
+        ]
+      },
+      {
+        "id": "with",
+        "question": "Sleeping with anyone?",
+        "options": [
+          { "value": "solo",    "label": "Solo",                "emoji": "👤" },
+          { "value": "partner", "label": "With a partner",      "emoji": "💑" },
+          { "value": "pet",     "label": "With a pet on the bed", "emoji": "🐕" }
+        ]
+      },
+      {
+        "id": "season",
+        "question": "When is it worst?",
+        "options": [
+          { "value": "summer",   "label": "Summer / heat-driven", "emoji": "☀️" },
+          { "value": "winter",   "label": "Winter / dryness",     "emoji": "❄️" },
+          { "value": "yearround","label": "Year-round",          "emoji": "🔁" }
+        ]
+      }
+    ],
+    "outcomes": {
+      "snore-partner-yearround": { "headline": "Snore-free nights for both of you", "why": "Anti-snore ergonomic pillow for the source, vibration alarm band so neither of you wakes the other in the morning, HEPA purifier for clean bedroom air.", "sku": ["8740328046822", "AG179", "BC537"] },
+      "snore-default":           { "headline": "Snore reset", "why": "Anti-snore pillow, HEPA purifier, vibration alarm. Quieter night, gentler morning.", "sku": ["8740328046822", "BC537", "AG179"] },
+
+      "hot-summer-default":      { "headline": "Cool bedroom for sleep", "why": "Tower fan with quiet operation, ergonomic anti-snore pillow, ionic purifier for stale closed-window air. Sleep through summer.", "sku": ["8758149218534", "8740328046822", "AG100"] },
+      "hot-default":             { "headline": "Cool the bedroom", "why": "Tower fan + anti-snore pillow + air purifier. The bedroom trio for hot nights.", "sku": ["8758149218534", "8740328046822", "BC537"] },
+
+      "sore-default":            { "headline": "Wake up unwound", "why": "Ergonomic anti-snore pillow for cervical support, decompression belt for a 20-minute pre-bed reset, Triple Fusion for tight spots.", "sku": ["8740328046822", "8644154786022", "AG157"] },
+
+      "fall-default":            { "headline": "Wind-down kit", "why": "Reading light with timer (no overhead glare), anti-snore pillow, ionic purifier — calmer environment, easier to fall asleep.", "sku": ["H909", "8740328046822", "AG100"] },
+
+      "wake-partner-default":    { "headline": "Gentle wake-up", "why": "Vibration alarm band wakes you without disturbing your partner, anti-snore pillow for the actual sleep, reading light for early-morning reading without blasting the room.", "sku": ["AG179", "8740328046822", "H909"] },
+      "wake-default":            { "headline": "Wake up easier", "why": "Vibration alarm band, anti-snore pillow, reading light. Fix the wake; fix the morning.", "sku": ["AG179", "8740328046822", "H909"] },
+
+      "default": { "headline": "Sleep reset kit", "why": "Anti-snore pillow, reading light, vibration alarm. Three small upgrades that compound.", "sku": ["8740328046822", "H909", "AG179"] }
+    }
+  },
+
+  {
+    "slug": "home-safety-audit",
+    "title": "How Safe Is Your Home, Really?",
+    "eyebrow": "Safety Check",
+    "lead": "Quick three-question audit. We'll flag what's missing and recommend the three highest-leverage devices for your specific setup.",
+    "coverSku": "AG180",
+    "questions": [
+      {
+        "id": "fuel",
+        "question": "Do you have any combustion in your home?",
+        "options": [
+          { "value": "gas",      "label": "Gas stove / furnace / water heater", "emoji": "🔥" },
+          { "value": "fireplace","label": "Fireplace or wood stove",            "emoji": "🪵" },
+          { "value": "garage",   "label": "Attached garage (cars idle here)",   "emoji": "🚗" },
+          { "value": "all-electric", "label": "All-electric home", "emoji": "⚡" }
+        ]
+      },
+      {
+        "id": "have",
+        "question": "What do you already have?",
+        "options": [
+          { "value": "nothing",     "label": "Nothing — starting fresh",  "emoji": "🆕" },
+          { "value": "smoke-only",  "label": "Just a smoke alarm",        "emoji": "🚨" },
+          { "value": "co-only",     "label": "Just a CO detector",        "emoji": "🟢" },
+          { "value": "some",        "label": "A few things — but old / spread out", "emoji": "📦" }
+        ]
+      },
+      {
+        "id": "concern",
+        "question": "Biggest concern right now?",
+        "options": [
+          { "value": "co",       "label": "Carbon monoxide",      "emoji": "☠️" },
+          { "value": "fire",     "label": "Kitchen / cooking fires", "emoji": "🔥" },
+          { "value": "air",      "label": "Air quality / allergies", "emoji": "🌫️" },
+          { "value": "privacy",  "label": "Privacy / hidden cameras", "emoji": "🕵️" }
+        ]
+      }
+    ],
+    "outcomes": {
+      "gas-nothing-co":     { "headline": "Start with the basics", "why": "Real-time CO/gas detector for the gas appliances, 4-in-1 plug-in for whole-home coverage, HEPA purifier for indoor air. The starter kit every gas-cooking household should own.", "sku": ["AG180", "BC630-freeshipping", "BC537"] },
+      "gas-default":        { "headline": "Gas-home safety kit", "why": "Live PPM CO/gas detector, Pro detector with HD display for the bedroom, fire blanket for the kitchen.", "sku": ["AG180", "BC614", "8808512880870"] },
+
+      "garage-default":     { "headline": "Garage + cars covered", "why": "Pro CO detector with HD display (read it from across the garage), real-time gas detector for the kitchen, vibration alarm band so you'll wake to alarms.", "sku": ["BC614", "AG180", "AG179"] },
+
+      "fireplace-default":  { "headline": "Fireplace household kit", "why": "4-in-1 detector covers CO + gas + smoke + humidity, fire blanket for the hearth, HEPA purifier for the soot fine particulate.", "sku": ["BC630-freeshipping", "8808512880870", "BC537"] },
+
+      "all-electric-air":   { "headline": "Air quality + smart safety", "why": "True-HEPA purifier for the main living space, ionic purifier for small rooms, ultrasonic insect repellent for chemical-free pest control.", "sku": ["BC537", "AG100", "BC603"] },
+      "all-electric-default":{ "headline": "Smart-home safety", "why": "HEPA purifier, vibration alarm band, anti-spy detector. Cleaner air, gentler alerts, traveler-friendly privacy.", "sku": ["BC537", "AG179", "h5001"] },
+
+      "fire-default":       { "headline": "Kitchen-fire essentials", "why": "Fire blanket for the kitchen, 4-in-1 detector for CO/gas/smoke, HEPA purifier for after-the-fact air cleanup.", "sku": ["8808512880870", "BC630-freeshipping", "BC537"] },
+
+      "privacy-default":    { "headline": "Privacy-conscious setup", "why": "Pocket anti-spy detector, privacy pen for travel, GPS pet collar so the family pet isn't trackable by anyone but you.", "sku": ["h5001", "BC613", "AG136"] },
+
+      "default": { "headline": "Home safety starter kit", "why": "Real-time CO/gas detector, true-HEPA purifier, fire blanket. The three devices every home should have.", "sku": ["AG180", "BC537", "8808512880870"] }
+    }
+  },
+
+  {
+    "slug": "mothers-day-match",
+    "title": "Find the Perfect Mother's Day Gift",
+    "eyebrow": "Mother's Day",
+    "lead": "Three quick questions about Mom and we'll pick three gifts that genuinely improve her week. Skip the flowers — these last longer.",
+    "coverSku": "BC446-2",
+    "questions": [
+      {
+        "id": "ugh",
+        "question": "Mom's biggest 'ugh' moment of the week?",
+        "options": [
+          { "value": "feet",     "label": "Sore feet at end of day",       "emoji": "🦶" },
+          { "value": "sleep",    "label": "Restless or interrupted sleep", "emoji": "🌙" },
+          { "value": "neck",     "label": "Tension headaches / neck",      "emoji": "🤕" },
+          { "value": "reading",  "label": "Reading in bed wakes Dad",       "emoji": "📖" },
+          { "value": "back",     "label": "Lower-back stiffness",          "emoji": "🦴" }
+        ]
+      },
+      {
+        "id": "vibe",
+        "question": "What does Mom value?",
+        "options": [
+          { "value": "practical","label": "Practical / problem-solving",     "emoji": "🛠️" },
+          { "value": "cozy",     "label": "Comfort / cozy",                  "emoji": "🛋️" },
+          { "value": "luxe",     "label": "A little luxe",                   "emoji": "✨" },
+          { "value": "tech",     "label": "Tech that makes life easier",      "emoji": "🔌" }
+        ]
+      },
+      {
+        "id": "budget",
+        "question": "Budget?",
+        "options": [
+          { "value": "low",  "label": "Under $40",                      "emoji": "💵" },
+          { "value": "mid",  "label": "$40 – $80",                       "emoji": "💵💵" },
+          { "value": "high", "label": "$80 +",                            "emoji": "💎" }
+        ]
+      }
+    ],
+    "outcomes": {
+      "feet-cozy-any":       { "headline": "Spa-day-at-home for Mom", "why": "Triple Therapy foot massager (heat + EMS + air-compression), reading light for the wind-down, charming mug for morning. Three things she'll use this week.", "sku": ["BC446-2", "H909", "BC376"] },
+      "feet-practical-any":  { "headline": "Foot relief, packaged", "why": "Foot massager + EMS leg pad + decompression belt. The full lower-body relief stack for moms on their feet all day.", "sku": ["BC446-2", "B35", "8644154786022"] },
+      "feet-default":        { "headline": "For the achy-feet mom", "why": "Foot massager, reading light, ergonomic pillow.", "sku": ["BC446-2", "H909", "8740328046822"] },
+
+      "sleep-cozy-any":      { "headline": "Mom's sleep upgrade", "why": "Anti-snore ergonomic pillow, soft pillowcase, reading light with timer. Cozy + cervical support + late-night reading without disturbing Dad.", "sku": ["8740328046822", "8788987248870", "H909"] },
+      "sleep-default":       { "headline": "Sleep gift for Mom", "why": "Anti-snore pillow, reading light, vibration alarm. Better sleep is the gift that compounds.", "sku": ["8740328046822", "H909", "AG179"] },
+
+      "neck-default":        { "headline": "Tension relief for Mom", "why": "Neck/TMJ device, Triple Fusion massager for shoulders, reading light for the wind-down. Headaches go down within a week.", "sku": ["AG161", "AG157", "H909"] },
+
+      "reading-default":     { "headline": "For Mom's late-chapter habit", "why": "Clip-on reading light with timer (3 color modes, 30/60-min auto-off), charming mug for morning, soft pillowcase for the bed.", "sku": ["H909", "BC376", "8788987248870"] },
+
+      "back-default":        { "headline": "Mom's back-relief kit", "why": "Decompression belt for 20-minute reset, Triple Fusion for tight spots, ergonomic pillow.", "sku": ["8644154786022", "AG157", "8740328046822"] },
+
+      "default": { "headline": "Solid Mother's Day pick", "why": "Foot massager, reading light, ergonomic pillow. The MD trio that consistently wins.", "sku": ["BC446-2", "H909", "8740328046822"] }
+    }
+  },
+
+  {
+    "slug": "fathers-day-match",
+    "title": "Find the Perfect Father's Day Gift",
+    "eyebrow": "Father's Day",
+    "lead": "Skip the novelty mug. Three questions about Dad and we'll pick three gifts he'll actually use long after the weekend.",
+    "coverSku": "8797054796006",
+    "questions": [
+      {
+        "id": "type",
+        "question": "Which dad is yours?",
+        "options": [
+          { "value": "fixer",     "label": "The fixer (tools, projects)",           "emoji": "🔧" },
+          { "value": "traveler",  "label": "The traveler / road warrior",            "emoji": "✈️" },
+          { "value": "desk",      "label": "The desk warrior (achy at end of day)",   "emoji": "💻" },
+          { "value": "safety",    "label": "The safety-first dad",                  "emoji": "🛡️" },
+          { "value": "pet",       "label": "The pet dad",                           "emoji": "🐶" }
+        ]
+      },
+      {
+        "id": "hobby",
+        "question": "Where does Dad spend weekends?",
+        "options": [
+          { "value": "garage",   "label": "Garage / DIY",     "emoji": "🛠️" },
+          { "value": "outdoors", "label": "Hiking / outdoors", "emoji": "🥾" },
+          { "value": "yard",     "label": "Yard / cars",      "emoji": "🚗" },
+          { "value": "couch",    "label": "Couch / recovery", "emoji": "🛋️" }
+        ]
+      },
+      {
+        "id": "budget",
+        "question": "Budget?",
+        "options": [
+          { "value": "low",  "label": "Under $40",       "emoji": "💵" },
+          { "value": "mid",  "label": "$40 – $100",      "emoji": "💵💵" },
+          { "value": "high", "label": "$100 +",          "emoji": "💎" }
+        ]
+      }
+    ],
+    "outcomes": {
+      "fixer-garage-any":   { "headline": "For the fixer dad", "why": "Three-in-one self-leveling laser level, cordless car-wash gun, plug-in power saver. Three useful tools, weekend after weekend.", "sku": ["8797054796006", "BC632", "8530813124838"] },
+      "fixer-yard-any":     { "headline": "Yard & garage upgrade", "why": "Cordless pressure-washer car-wash gun, laser level, energy-saving heater for the garage workshop.", "sku": ["BC632", "8797054796006", "8819097272550"] },
+      "fixer-default":      { "headline": "Tools dad will love", "why": "Laser level, carwash gun, anti-spy detector. The practical-and-useful trio.", "sku": ["8797054796006", "BC632", "h5001"] },
+
+      "traveler-default":   { "headline": "For the road-warrior dad", "why": "Pocket anti-spy detector, privacy pen, vibration alarm band. Clears hotel rooms and keeps mornings quiet.", "sku": ["h5001", "BC613", "AG179"] },
+
+      "desk-couch-any":     { "headline": "Recovery kit for the desk dad", "why": "Triple Fusion massager + foot massager + decompression belt. Real relief for the desk-bound back.", "sku": ["AG157", "BC446-2", "8644154786022"] },
+      "desk-default":       { "headline": "Desk-warrior recovery", "why": "Triple Fusion massager, foot massager, ergonomic pillow. End-of-day relief without a chiropractor.", "sku": ["AG157", "BC446-2", "8740328046822"] },
+
+      "safety-default":     { "headline": "Safety-first dad's kit", "why": "CO/gas detector, anti-spy detector, vibration alarm. Peace-of-mind tools the safety-minded dad will deploy immediately.", "sku": ["AG180", "h5001", "AG179"] },
+
+      "pet-default":        { "headline": "For the pet-dad", "why": "GPS pet collar, ultrasonic insect repellent, foot massager (post-walk recovery). Three picks for the family who walks the dog.", "sku": ["AG136", "BC603", "BC446-2"] },
+
+      "default": { "headline": "Solid Father's Day pick", "why": "Laser level, carwash gun, anti-spy detector. Practical, surprising, used.", "sku": ["8797054796006", "BC632", "h5001"] }
+    }
+  }
+]
