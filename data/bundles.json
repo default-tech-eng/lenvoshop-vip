@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "summer-survival-bundle",
+    "title": "The Summer Survival Bundle",
+    "kicker": "Save 15% on the cooling trio",
+    "eyebrow": "Bundle",
+    "code": "SUMMER15",
+    "discountPct": 15,
+    "lead": "The three cooling products we'd buy in this exact order: the desktop cooler for your work-from-home setup, the wearable neck fan for outside, and the slim tower fan for the bedroom. Together they cover every cooling moment of the day — and the bundle saves 15% off the regular cart total.",
+    "skus": [
+      "BC647",
+      "8748353192166",
+      "8758149218534"
+    ],
+    "closer": "Bundling math: regular price is $139.87. With the 15% bundle discount you pay about $118.89, and your AC bill drops 10–20% the first month they're in service. Pays for itself before fall.",
+    "coverSku": "BC647"
+  },
+  {
+    "slug": "gift-the-grandparents-bundle",
+    "title": "Gift the Grandparents Bundle",
+    "kicker": "Save 15% on three wellness essentials",
+    "eyebrow": "Bundle",
+    "code": "GRANDPARENTS15",
+    "discountPct": 15,
+    "lead": "The wellness trio we keep recommending for grandparents: the Triple Fusion Massager for chronic back pain, the foot massager for tired feet, and the clip-on reading light for late-night chapters. Three real problems solved in one box. Save 15% when you bundle all three.",
+    "skus": [
+      "AG157",
+      "BC446-2",
+      "H909"
+    ],
+    "closer": "Pair with a hand-written note and you're done holiday shopping. Even better: deliver in person, set them up, then sit and read while they try the foot massager.",
+    "coverSku": "AG157"
+  },
+  {
+    "slug": "home-safety-starter-kit",
+    "title": "Home Safety Starter Kit",
+    "kicker": "Save 15% on the trio every home should own",
+    "eyebrow": "Bundle",
+    "code": "SAFETY15",
+    "discountPct": 15,
+    "lead": "The three safety devices that should be standard in every home — and almost never are: a real-time CO and gas detector, a true-HEPA air purifier for everyday air quality, and a fiberglass fire blanket for the kitchen. Cheap insurance against the most common household incidents.",
+    "skus": [
+      "AG180",
+      "BC537",
+      "8808512880870"
+    ],
+    "closer": "Reality check: the three of these together cost less than the deductible on most homeowner's insurance policies. They prevent the kind of incidents that file claims in the first place.",
+    "coverSku": "AG180"
+  }
+]
