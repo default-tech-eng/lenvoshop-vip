@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="robots" content="noindex,nofollow,noarchive,nosnippet" />
+  <meta name="googlebot" content="noindex,nofollow" />
+  <title>Checkout — Lenvoshop</title>
+  <meta name="description" content="Secure checkout — Lenvoshop." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="assets/logo.webp" />
+  <script src="config.js"></script>
+  
+</head>
+<body class="checkout-body">
+<div class="topbar">
+    <span class="topbar-msg vip-flag"><strong>VIP Members Only</strong></span>
+    <span class="topbar-sep">·</span>
+    <span class="topbar-msg">Free US shipping always</span>
+    <span class="topbar-sep">·</span>
+    <span class="topbar-msg">30-day returns</span>
+    <span class="topbar-sep">·</span>
+    <span class="topbar-msg">Need help? Call <a href="tel:+15550102046">+1 (555) 010-2046</a></span>
+  </div>
+<header class="site-header">
+  <a href="index.html" class="logo">
+    <img src="assets/logo.webp" alt="Lenvoshop" />
+  </a>
+  <form class="search" action="shop.html" method="get" role="search">
+    <input type="search" name="q" placeholder="Search" aria-label="Search" />
+    <button type="submit" aria-label="Submit search">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#111" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    </button>
+  </form>
+  <nav class="primary-nav" aria-label="Primary">
+    <a href="index.html">Home</a>
+    <a href="best-sellers.html">Best Sellers</a>
+    <a href="track-order.html">Track Order</a>
+    <a href="returns.html">Refund Policy</a>
+    <a href="shipping-policy.html">Shipping Policy</a>
+    <a href="contact.html">Contact Us</a>
+  </nav>
+  <a href="cart.html" class="cart" aria-label="Shopping cart">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#111" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg>
+    <span class="cart-count" data-cart-count>0</span>
+  </a>
+</header>
+<main class="checkout-main">
+  <div class="checkout-grid">
+    <section class="checkout-form-col">
+      <form class="checkout-form" id="checkout-form" autocomplete="on" novalidate>
+        <section class="form-section">
+          <h2>Contact</h2>
+          <label class="floating">
+            <input type="email" name="email" id="ck-email" required autocomplete="email" placeholder=" " />
+            <span>Email</span>
+          </label>
+          <label class="checkbox-row">
+            <input type="checkbox" name="marketing" />
+            <span>Email me with news and offers</span>
+          </label>
+        </section>
+
+        <section class="form-section">
+          <h2>Delivery</h2>
+          <label class="floating">
+            <select name="country" id="ck-country" required>
+              <option selected>United States</option><option >Canada</option><option >United Kingdom</option><option >Australia</option><option >Germany</option><option >France</option><option >Italy</option><option >Spain</option><option >Netherlands</option><option >Belgium</option><option >Sweden</option><option >Norway</option><option >Denmark</option><option >Finland</option><option >Ireland</option><option >Austria</option><option >Switzerland</option><option >Portugal</option><option >Poland</option><option >Czech Republic</option>
+            </select>
+            <span>Country/Region</span>
+            <svg class="select-caret" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </label>
+          <div class="grid-2">
+            <label class="floating">
+              <input type="text" name="firstName" required autocomplete="given-name" placeholder=" " />
+              <span>First name</span>
+            </label>
+            <label class="floating">
+              <input type="text" name="lastName" required autocomplete="family-name" placeholder=" " />
+              <span>Last name</span>
+            </label>
+          </div>
+          <label class="floating">
+            <input type="text" name="address1" required autocomplete="address-line1" placeholder=" " />
+            <span>Address</span>
+            <svg class="addr-search" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          </label>
+          <label class="floating">
+            <input type="text" name="address2" autocomplete="address-line2" placeholder=" " />
+            <span>Apt, suite, etc. (optional)</span>
+          </label>
+          <div class="grid-2">
+            <label class="floating">
+              <input type="text" name="city" required autocomplete="address-level2" placeholder=" " />
+              <span>City</span>
+            </label>
+            <label class="floating">
+              <input type="text" name="zip" required autocomplete="postal-code" inputmode="numeric" placeholder=" " />
+              <span>ZIP code</span>
+            </label>
+          </div>
+          <label class="floating">
+            <input type="tel" name="phone" autocomplete="tel" placeholder=" " />
+            <span>Phone</span>
+            <svg class="addr-search" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+          </label>
+
+          <div class="ship-line">
+            <span>Shipping</span>
+            <span data-summary="shipping-line">$9.99</span>
+          </div>
+        </section>
+
+        <section class="form-section">
+          <h2>Payment</h2>
+          <p class="payment-note">All transactions are secure and encrypted. Card details are handled by our PCI-compliant processor.</p>
+          <label class="payment-method active">
+            <input type="radio" name="payment" value="card" checked />
+            <span class="pm-label">Credit / Debit Card</span>
+          </label>
+
+          <div id="card-fields" class="card-fields">
+            <label class="floating">
+              <input type="text" name="cardNumber" autocomplete="cc-number" inputmode="numeric" placeholder=" " />
+              <span>Card number</span>
+              <span class="card-lock" aria-hidden="true">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+              </span>
+            </label>
+            <div class="grid-2">
+              <label class="floating">
+                <input type="text" name="cardExpiry" autocomplete="cc-exp" placeholder=" " />
+                <span>MM / YY</span>
+              </label>
+              <label class="floating">
+                <input type="text" name="cardCvc" autocomplete="cc-csc" inputmode="numeric" placeholder=" " />
+                <span>Security code</span>
+              </label>
+            </div>
+            <label class="floating">
+              <input type="text" name="cardName" autocomplete="cc-name" placeholder=" " />
+              <span>Name on card</span>
+            </label>
+          </div>
+
+          <button type="submit" class="btn-primary btn-lg pay-button" id="pay-btn">Pay <span data-summary="total"></span></button>
+          <div id="pay-error" class="pay-error" role="alert"></div>
+        </section>
+      </form>
+    </section>
+
+    <aside class="checkout-summary-col">
+      <div class="checkout-summary">
+        <div class="summary-lines" id="checkout-lines"></div>
+
+        <div class="discount-row">
+          <input type="text" placeholder="Discount code" id="discount-input" />
+          <button type="button" id="apply-discount" disabled>Apply</button>
+        </div>
+
+        <div class="summary-totals">
+          <div class="row" id="row-original" hidden><span>Original Price</span><span data-summary="original">$0.00</span></div>
+          <div class="row discount" id="row-discount" hidden><span>Order discount</span><span data-summary="discount">-$0.00</span></div>
+          <div class="row"><span>Subtotal</span><span data-summary="subtotal">$0.00</span></div>
+          <div class="row"><span>Shipping</span><span data-summary="shipping">$0.00</span></div>
+          <div class="row total"><span>Total</span><span class="total-amt"><span class="usd">USD</span> <span data-summary="total">$0.00</span></span></div>
+        </div>
+
+      </div>
+    </aside>
+  </div>
+</main>
+<section class="trust-band">
+  <div class="trust-item"><strong>Satisfaction Guarantee</strong><span>30-day returns</span></div>
+  <div class="trust-item"><strong>100% Secure Payment</strong><span>SSL-encrypted checkout</span></div>
+  <div class="trust-item"><strong>US Customer Support</strong><span>Mon–Fri 9 am – 9 pm</span></div>
+</section>
+<footer class="site-footer">
+  <div class="foot-grid">
+    <div>
+      <h4>Customer Care</h4>
+      <ul>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="track-order.html">Track Your Order</a></li>
+        <li><a href="returns.html">Returns & Exchanges</a></li>
+        <li><a href="returns-and-refunds.html">Returns & Refunds</a></li>
+        <li><a href="shipping-policy.html">Shipping Policy</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>About</h4>
+      <ul>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="brand-story.html">Brand Story</a></li>
+        <li><a href="why-choose.html">Why Choose Lenvoshop?</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Policies</h4>
+      <ul>
+        <li><a href="terms.html">Terms & Conditions</a></li>
+        <li><a href="privacy.html">Privacy Policy</a></li>
+        <li><a href="health-disclaimer.html">Health Disclaimer</a></li>
+        <li><a href="payment-method.html">Payment Method</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Get in touch</h4>
+      <p>Email: <a href="mailto:customer@lenvoshop.com">customer@lenvoshop.com</a></p>
+      <p>Hours: Mon–Fri, 9:00 am – 9:00 pm</p>
+      <p class="payment-icons">VISA · Mastercard · AmEx · Discover</p>
+    </div>
+  </div>
+  <div class="copyright">© 2026 Lenvoshop. All rights reserved.</div>
+</footer>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+
+
+<div class="drawer-backdrop" id="drawer-backdrop" hidden></div>
+<aside class="cart-drawer" id="cart-drawer" aria-label="Shopping cart" aria-hidden="true">
+  <header class="drawer-header">
+    <h2>Your Cart <span class="drawer-count" data-drawer-count>0</span></h2>
+    <button class="drawer-close" data-drawer-close aria-label="Close cart">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+    </button>
+  </header>
+  <div class="drawer-body" id="drawer-body">
+    <div class="drawer-empty" id="drawer-empty">
+      <p>Your cart is empty.</p>
+      <a href="shop.html" class="btn-secondary">Browse products</a>
+    </div>
+    <div class="drawer-lines" id="drawer-lines"></div>
+  </div>
+  <footer class="drawer-foot" id="drawer-foot">
+    <div class="drawer-summary">
+      <div class="row"><span>Subtotal</span><span data-summary="subtotal">$0.00</span></div>
+      <div class="row small"><span>Shipping</span><span data-summary="shipping">—</span></div>
+      <div class="ship-progress" data-summary="ship-note"></div>
+    </div>
+    <div class="drawer-actions">
+      <a href="cart.html" class="btn-secondary">View Cart</a>
+      <a href="checkout.html" class="btn-primary">Checkout</a>
+    </div>
+  </footer>
+</aside>
+
+<script src="catalog.js"></script>
+<script src="reviews.js"></script>
+<script src="cart.js"></script>
+</body>
+</html>
