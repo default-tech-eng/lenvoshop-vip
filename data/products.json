@@ -1,0 +1,745 @@
+{
+  "version": 1,
+  "synced_at": "2026-05-08T16:14:38.627Z",
+  "source": "seed-from-original-scrape",
+  "count": 41,
+  "products": [
+    {
+      "id": 13101,
+      "sku": "8740328046822",
+      "name": "💤 Ein ruhiges Kissen ohne nächtliches Schnarchen: professionelle Pflege, tiefer Schlaf!-BT155-2",
+      "url_key": "bt155-2",
+      "price": "$39.95",
+      "raw_price": "39.9500",
+      "compare_at_price": "$75.90",
+      "description": "🌙 Beeinflusst von der Technologie, dem Evangelium ohne Schnarchen Unter Verwendung modernster technologischer Materialien kombiniert das Kissendesign Ergonomie, um den Atemdruck wirksam zu entlasten und Schnarchsymptome zu reduzieren. Die perfekte Verbindung von Technologie und Komfort erm glicht",
+      "base_image": "https://static.yooje.uk/uploads/239614fe4d7d4978be6086a37e95272e_th_fe13a0e4-3e4d-4189-8729-ab1198e85ca3.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/239614fe4d7d4978be6086a37e95272e_th_fe13a0e4-3e4d-4189-8729-ab1198e85ca3.webp",
+        "https://static.yooje.uk/uploads/0b3a09340a64696be36fbb5a62bf376.webp",
+        "https://static.yooje.uk/uploads/0b3a09340a64696be36fbb5a62bf376.webp",
+        "https://static.yooje.uk/uploads/239614fe4d7d4978be6086a37e95272e_th_fe13a0e4-3e4d-4189-8729-ab1198e85ca3.webp",
+        "https://static.yooje.uk/uploads/1701332542083.webp"
+      ]
+    },
+    {
+      "id": 22330,
+      "sku": "8808512880870",
+      "name": "Hatmeo Welding fire blanket",
+      "url_key": "hatmeo-welding-fire-blanket",
+      "price": "$29.98",
+      "raw_price": "29.9800",
+      "compare_at_price": "$59.98",
+      "description": "Welding protective blankets are mainly used to protect the working environment and personnel from sparks, heat and harmful gases generated during the welding process. Improve Safety Protect Against Sparks: Sparks generated during welding can cause fire or damage equipment. Protective blankets can e",
+      "base_image": "https://static.yooje.uk/uploads/71aBJl3pIbL._AC_CR0_0_0_0_SX480_SY360.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/71aBJl3pIbL._AC_CR0_0_0_0_SX480_SY360.webp",
+        "https://static.yooje.uk/uploads/71GhW4uaOPL._AC_CR0_0_0_0_SX480_SY360.webp",
+        "https://static.yooje.uk/uploads/71M6dkXygyL._AC_CR0_0_0_0_SX480_SY360.webp",
+        "https://static.yooje.uk/uploads/71OYOR0Q84L._AC_CR0_0_0_0_SX480_SY360.webp",
+        "https://static.yooje.uk/uploads/71SYul_QLLL._AC_CR0_0_0_0_SX480_SY360.webp"
+      ]
+    },
+    {
+      "id": 21404,
+      "sku": "8827339899110",
+      "name": "Hatmeo Spider Web Indoor Halloween Carpet",
+      "url_key": "spider-web-indoor-halloween-carpet",
+      "price": "$29.99",
+      "raw_price": "29.9900",
+      "compare_at_price": "$50.99",
+      "description": "The Spider Web Indoor Halloween Carpet is the perfect addition to your spooky holiday decor, combining eerie aesthetics with practical functionality. Whether you're hosting a Halloween party or just want to add a festive touch to your home, this carpet will make your space both stylish and seasonal",
+      "base_image": "https://static.yooje.uk/uploads/O1CN01R1zMHe1efKpp6d64e__2216530323898-0-cib.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/O1CN01R1zMHe1efKpp6d64e__2216530323898-0-cib.webp",
+        "https://static.yooje.uk/uploads/O1CN01R1zMHe1efKpp6d64e__2216530323898-0-cib.webp",
+        "https://static.yooje.uk/uploads/O1CN01jpoVey1efKpwss5sm__2216530323898-1-cib.webp",
+        "https://static.yooje.uk/uploads/817eXI3USSL._AC_SX679_efa10e80-d438-45fa-9e82-e4a9d83ceed0.webp",
+        "https://static.yooje.uk/uploads/O1CN01iCpo112HEYhVg5nYQ__2218375499119-0-cib.webp"
+      ]
+    },
+    {
+      "id": 21343,
+      "sku": "8788987248870",
+      "name": "Hatmeo Solid Color Pillowcase",
+      "url_key": "hatmeo-solid-color-pillowcase",
+      "price": "$34.99",
+      "raw_price": "34.9900",
+      "compare_at_price": "$89.98",
+      "description": "Pillowcase Recommendation A good pillowcase can not only protect the pillow, but also improve the quality and comfort of sleep. Choosing the right pillowcase material and design can bring you a better sleeping experience. Reduce Wrinkle Formation: Reduce friction: Silk pillowcases are smooth and so",
+      "base_image": "https://static.yooje.uk/uploads/O1CN01q4M1kd1bVlegcLPXv__2206966783471-0-cib_89257de3-8298-4a83-bb48-e5f4b292e92a.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/O1CN01q4M1kd1bVlegcLPXv__2206966783471-0-cib_89257de3-8298-4a83-bb48-e5f4b292e92a.webp",
+        "https://static.yooje.uk/uploads/O1CN01WyLRi61bVleiieNea__2206966783471-0-cib_3ffa1af8-4783-41e5-aa5c-f738af10d39a.webp",
+        "https://static.yooje.uk/uploads/O1CN01ldL8Bs1bVlefYBYzq__2206966783471-0-cib.webp",
+        "https://static.yooje.uk/uploads/O1CN019l3n6w1bVleMCeIzA__2206966783471-0-cib.webp",
+        "https://static.yooje.uk/uploads/O1CN0106rGfC1bVlegcVLbU__2206966783471-0-cib_c1dd0eb9-fc11-48d7-8947-12e1de649c24.webp"
+      ]
+    },
+    {
+      "id": 27333,
+      "sku": "BC376",
+      "name": "Cute Highland Cow Ceramic Coffee Mug",
+      "url_key": "cute-highland-cow-ceramic-coffee-mug",
+      "price": "$38.00",
+      "raw_price": "38.0000",
+      "compare_at_price": "$75.00",
+      "description": "Brighten your daily coffee ritual with this adorable Cute Highland Cow Ceramic Coffee Mug! Crafted from premium ceramic and featuring a delightful highland cow design, this mug brings a touch of Scottish countryside charm to your morning brew. With a generous 15oz (440ml) capacity, it's perfect for",
+      "base_image": "https://static.yooje.uk/uploads/0JmXXaa4zOgodThHzGTzueyExiTKxFSTsbxB4Nxf.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/0JmXXaa4zOgodThHzGTzueyExiTKxFSTsbxB4Nxf.webp",
+        "https://static.yooje.uk/uploads/CSGZ5p5ydU6OJsnK8HRT5qQqaMUNwLPvSDhtFzzE.webp",
+        "https://static.yooje.uk/uploads/T99HzbOXLgxaakzom5MW2wFAnJojMhzT8GX261uz.webp",
+        "https://static.yooje.uk/uploads/5rWreLYkK2UgcUeRWKIVapdDTceoDp4qW0iOSPv4.webp",
+        "https://static.yooje.uk/uploads/lfl5yJtt7876rzIu21hMrWfZgEky1jq8CpYnaPYU.webp"
+      ]
+    },
+    {
+      "id": 24750,
+      "sku": "8861497721062",
+      "name": "🔥 Hot Sale!🔥Hatmeo™ 3D Bookshelf Visual Effect Ceramic Coffee Mug aqy",
+      "url_key": "🔥2023-hot-sale-🔥hatmeo™-3d-bookshelf-visual-effect-ceramic-coffee-mug-copy",
+      "price": "$35.98",
+      "raw_price": "35.9800",
+      "compare_at_price": "$65.00",
+      "description": "",
+      "base_image": "https://static.yooje.uk/uploads/aa54d0b19e24ed105adc052caf22f664_14f01128-21ff-4328-9717-3172a4d2e875.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/aa54d0b19e24ed105adc052caf22f664_14f01128-21ff-4328-9717-3172a4d2e875.webp",
+        "https://static.yooje.uk/uploads/a41a8305b3d3c85cb1e06b80e55e3ff6_2c490f84-11d7-4bed-bf05-c1dbe376beda.webp",
+        "https://static.yooje.uk/uploads/aa54d0b19e24ed105adc052caf22f664_14f01128-21ff-4328-9717-3172a4d2e875.webp",
+        "https://static.yooje.uk/uploads/edcafbda567092219e027e093ea04841_552d152f-3208-464e-bc6e-b1b5e8552cb8.webp",
+        "https://static.yooje.uk/uploads/a41a8305b3d3c85cb1e06b80e55e3ff6_2c490f84-11d7-4bed-bf05-c1dbe376beda.webp"
+      ]
+    },
+    {
+      "id": 14310,
+      "sku": "8977573708006",
+      "name": "Hatmeo™ Titanium Alloy Cutting Board – Ultra-Durable, Hygienic & Knife-Friendly Kitchen Essential",
+      "url_key": "34x23cm-durable-304-stainless-steel-chopping-board",
+      "price": "$39.00",
+      "raw_price": "39.0000",
+      "compare_at_price": "$69.00",
+      "description": "Did You Know Your Plastic Cutting Board Could Be Messing With Your Hormones? It's true - plastic and epicurean boards often contain BPA or other harmful chemicals that can leach into your food while cutting. They re also easily scratched, creating hidden grooves where bacteria can build up over tim",
+      "base_image": "https://static.yooje.uk/uploads/1743414630500.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/1743414630500.webp",
+        "https://static.yooje.uk/uploads/liZgLsJWda02KCHXerSVDzxs3lN9nJDL2qEgPKIC.webp",
+        "https://static.yooje.uk/uploads/M_8371c031-6619-468b-9b0f-69a612b89cd4.webp",
+        "https://static.yooje.uk/uploads/PUnSDNkpTNKgZs2SoDxqEdJsxgGAAGl8pUNHsmVu.webp",
+        "https://static.yooje.uk/uploads/PItQHHBFhUp2RDXcOl4a9c79aXOdpyo0MFjIqq27.webp"
+      ]
+    },
+    {
+      "id": 14789,
+      "sku": "8846711455974",
+      "name": "Halloween Ambient Light Decorations",
+      "url_key": "halloween-ambient-light-decorations",
+      "price": "$29.99",
+      "raw_price": "29.9900",
+      "compare_at_price": "$59.98",
+      "description": "Designed to look like real maple leaves, this string of lights is perfect for both daytime and nighttime decor. During the day, it adds a festive touch with its vibrant fall colors, making it ideal for seasonal and holiday decorations. At night, the warm LED lights on the string illuminate any spac",
+      "base_image": "https://static.yooje.uk/uploads/08_2ab6203f-0bc0-4973-bc04-58e26b080d80.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/08_2ab6203f-0bc0-4973-bc04-58e26b080d80.webp",
+        "https://static.yooje.uk/uploads/05_e35a2a2d-5924-49b2-bc49-6f6cfc6c151f.webp",
+        "https://static.yooje.uk/uploads/SKU-09.webp",
+        "https://static.yooje.uk/uploads/SKU-06.webp",
+        "https://static.yooje.uk/uploads/SKU-12.webp"
+      ]
+    },
+    {
+      "id": 14820,
+      "sku": "8826210451686",
+      "name": "Halloween Ghost Plush Living Room Sofa Cushion Cover",
+      "url_key": "halloween-ghost-plush-living-room-sofa-cushion-cover",
+      "price": "$29.98",
+      "raw_price": "29.9800",
+      "compare_at_price": "$59.98",
+      "description": "Halloween is a holiday full of fun and creativity, and decoration is an important part of it. Ghost pillow covers can help create a unique festive atmosphere and make your home or party place more in line with the Halloween theme. Unique Holiday Designs: pillowcases often feature unique patterns re",
+      "base_image": "https://static.yooje.uk/uploads/81cr-RIBzpL._AC_SX679.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/81cr-RIBzpL._AC_SX679.webp",
+        "https://static.yooje.uk/uploads/81xoHu6-ECL._AC_SX679.webp",
+        "https://static.yooje.uk/uploads/81CNU4nCSOL._AC_SX679__1.webp",
+        "https://static.yooje.uk/uploads/81xoHu6-ECL._AC_SX679.webp",
+        "https://static.yooje.uk/uploads/81JRNuFAjdL._AC_SX679.webp"
+      ]
+    },
+    {
+      "id": 14827,
+      "sku": "8827486240998",
+      "name": "Halloween Ghost Plush Pillow Ghost Shaped Pillow",
+      "url_key": "halloween-ghost-plush-pillow-ghost-shaped-pillow",
+      "price": "$29.98",
+      "raw_price": "29.9800",
+      "compare_at_price": "$59.98",
+      "description": "Halloween Atmosphere: The ghost-shaped design fits the Halloween theme very well and can add a festive atmosphere to the interior decoration.The ghost design adds a playful and festive atmosphere to your home during Halloween, creating a spooky atmosphere. Cute and Unique: The ghost shape not only",
+      "base_image": "https://static.yooje.uk/uploads/O1CN01c4EZWp22EocvN9v65__2217060897089-0-cib.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/O1CN01c4EZWp22EocvN9v65__2217060897089-0-cib.webp",
+        "https://static.yooje.uk/uploads/O1CN01mCptNk22Eocvq5p9D__2217060897089-0-cib.webp",
+        "https://static.yooje.uk/uploads/O1CN01eshqBy22EocpjGz5H__2217060897089-0-cib.webp",
+        "https://static.yooje.uk/uploads/O1CN01c4EZWp22EocvN9v65__2217060897089-0-cib.webp",
+        "https://static.yooje.uk/uploads/O1CN01mCptNk22Eocvq5p9D__2217060897089-0-cib.webp"
+      ]
+    },
+    {
+      "id": 32690,
+      "sku": "BC647",
+      "name": "Lenvoshop Portable Air Cooler, USB Rechargeable, Three-speed Office Desktop Fan",
+      "url_key": "hatmeo-cooling-mist-humidifier-fan-usb-rechargeable-three-speed-office-desktop-fan",
+      "price": "$49.90",
+      "raw_price": "49.9000",
+      "compare_at_price": "$199.60",
+      "description": "❄️ Ultra-Fast Personal Cooler 🌬️ 20 F drop in 30 sec ⚡ Type-C fast charge 🍃 3‑speed arctic wind Next‑generation personal cooling engineered for instant relief, silent comfort, and total peace of mind. 🌀Arctic 3‑Speed Wind Three adjustable wind speeds from gentle breeze to icy turbo. Cools the ai",
+      "base_image": "https://static.yooje.uk/uploads/fd6f306855634ce89f1dd2f2179f8702.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/fd6f306855634ce89f1dd2f2179f8702.webp",
+        "https://static.yooje.uk/uploads/737b10cb56c868b711bbb6df96e9f45d.webp",
+        "https://static.yooje.uk/uploads/4127a74c693e48a0569cbfd81d926aa4.webp",
+        "https://static.yooje.uk/uploads/bd401ed5ebb59c5aff5964c3ed394437.webp",
+        "https://static.yooje.uk/uploads/d80c700cd0443a20676a82a8eee5f50a.webp"
+      ]
+    },
+    {
+      "id": 21648,
+      "sku": "8758529163494",
+      "name": "Lenvoshop Summer Cooling Portable Fan",
+      "url_key": "hatmeo-summer-cooling-portable-fan-h216",
+      "price": "$59.98",
+      "raw_price": "59.9800",
+      "compare_at_price": "$109.99",
+      "description": "Next-Generation Cooling Technology This ultra-fast personal cooler can cool down the air by up to 20 F in just 30 seconds faster and more efficient than traditional air conditioners. Lenvoshop cooling Portable Fan-Portability and Space Saving Portability: Lenvoshop cooling Portable Fan can be effor",
+      "base_image": "https://static.yooje.uk/uploads/6_305ac9a9-85c3-4423-8309-2c92c1c32a6e.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/6_305ac9a9-85c3-4423-8309-2c92c1c32a6e.webp",
+        "https://static.yooje.uk/uploads/6-1.webp",
+        "https://static.yooje.uk/uploads/6-4.webp",
+        "https://static.yooje.uk/uploads/6-6.webp",
+        "https://static.yooje.uk/uploads/6-2.webp"
+      ]
+    },
+    {
+      "id": 6285,
+      "sku": "8748353192166",
+      "name": "Lenvoshop portable cooling neck fan",
+      "url_key": "hatmeo-portable-cooling-neck-fan",
+      "price": "$29.99",
+      "raw_price": "29.9900",
+      "compare_at_price": "$49.99",
+      "description": "Your Personal Cooling System For Hot Days Lenvoshop portable cooling neck fan is a hands-free neck fan that keeps you cool and comfortable wherever you go. 78 Air Outlets for 360 Cooling Lenvoshop portable cooling neck fan features 78 air outlets strategically placed around the neck. They provide a",
+      "base_image": "https://static.yooje.uk/uploads/54a506757bf7442d3dec591d3eb500d_9c911d14-fd42-4b05-9b72-1f546bf14907.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/54a506757bf7442d3dec591d3eb500d_9c911d14-fd42-4b05-9b72-1f546bf14907.webp",
+        "https://static.yooje.uk/uploads/9415b720b7aa783dac5f9f4bcf3008c.webp",
+        "https://static.yooje.uk/uploads/girl-hiking.webp",
+        "https://static.yooje.uk/uploads/f9a388a2b72129dd252de92daca5def.webp",
+        "https://static.yooje.uk/uploads/convenient_effective.webp"
+      ]
+    },
+    {
+      "id": 8299,
+      "sku": "8758149218534",
+      "name": "Lenvoshop Summer High Wind Power Portable Tower Fan",
+      "url_key": "hatmeo-summer-high-wind-power-portable-tower-fan",
+      "price": "$59.98",
+      "raw_price": "59.9800",
+      "compare_at_price": "$109.99",
+      "description": "Next-Generation Cooling Technology This ultra-fast personal cooler can cool down the air by up to 20 F in just 30 seconds faster and more efficient than traditional air conditioners. Lenvoshop Summer Tower Fan-Portability and space saving Portability: Lenvoshop Summer High Wind Power Portable Tower",
+      "base_image": "https://static.yooje.uk/uploads/3f6171f2ea8cf75e65488a091580580f.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/3f6171f2ea8cf75e65488a091580580f.webp",
+        "https://static.yooje.uk/uploads/86d6b6668dd249b94188acb64812e4bf.webp",
+        "https://static.yooje.uk/uploads/86d6b6668dd249b94188acb64812e4bf.webp",
+        "https://static.yooje.uk/uploads/3f6171f2ea8cf75e65488a091580580f.webp",
+        "https://static.yooje.uk/uploads/08b45259c47089f610ac48ab415693e7.webp"
+      ]
+    },
+    {
+      "id": 20268,
+      "sku": "8758551347430",
+      "name": "Lenvoshop Portable cooling fan",
+      "url_key": "hatmeo-portable-cooling-fan-h218",
+      "price": "$59.90",
+      "raw_price": "59.9000",
+      "compare_at_price": "$89.90",
+      "description": "Next-Generation Cooling Technology This ultra-fast personal cooler can cool down the air by up to 20 F in just 30 seconds faster and more efficient than traditional air conditioners. Lenvoshop Portable Cooling Fan-Portability and Space Saving Portability: Lenvoshop Portable cooling fan can be effor",
+      "base_image": "https://static.yooje.uk/uploads/15aff514b745c0c9280f13d98c3449f.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/15aff514b745c0c9280f13d98c3449f.webp",
+        "https://static.yooje.uk/uploads/1719054457_10.webp",
+        "https://static.yooje.uk/uploads/35df160d7715372aef40cb895842beb.webp",
+        "https://static.yooje.uk/uploads/a78696e633430e6983d8c9f265e4ca2.webp",
+        "https://static.yooje.uk/uploads/1ca325231aa996b586997636dfe2cc2.webp"
+      ]
+    },
+    {
+      "id": 31676,
+      "sku": "B35",
+      "name": "Lenvoshop - EMS FIX FOR SWOLLEN LEGS FROM HOME",
+      "url_key": "hatmeo-ems-fix-for-swollen-legs-from-home",
+      "price": "$49.99",
+      "raw_price": "49.9900",
+      "compare_at_price": "$99.98",
+      "description": "Lenvoshop - EMS FIX FOR SWOLLEN LEGS FROM HOME Meet the Lenvoshop EMS Relief Plate , the only device engineered to wake up your body s natural pump, boost circulation, and drain the heavy fluid trapped in your lower legs. Lenvoshop EMS Relief Plate ✓ Targeted EMS pulses activate the 'Second Heart'",
+      "base_image": "https://static.yooje.uk/uploads/d78a83089b45f8dc5a436f2a3d6fe7ac.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/d78a83089b45f8dc5a436f2a3d6fe7ac.webp",
+        "https://static.yooje.uk/uploads/b50ad9480f318e13aed56891d71a74f4.webp",
+        "https://static.yooje.uk/uploads/0d2a5dd8b64e0b758f054ce0607909bc.webp",
+        "https://static.yooje.uk/uploads/99551ddf74ac4c3da6b58701e2ce5d82.webp",
+        "https://static.yooje.uk/uploads/ebc53235c9791da219af71aca6f1e104.webp"
+      ]
+    },
+    {
+      "id": 31823,
+      "sku": "AG157",
+      "name": "Lenvoshop™ Triple Fusion Massager —  & Back Pain in 15 Minutes",
+      "url_key": "hatmeo-triple-fusion-massager-end-sciatica-back-pain-in-15-minutes",
+      "price": "$119.95",
+      "raw_price": "119.9500",
+      "compare_at_price": "$239.90",
+      "description": "Lenvoshop Triple Fusion Massager End Your Back Pain Sciatica in 15 Minutes a Day This breakthrough \"Triple Fusion\" device decompresses your spine rehydrates your discs from home. Key Highlights Decompresses your suffocating spine in 30 seconds Forces dried-out discs to rehydrate like sponges Kills",
+      "base_image": "https://static.yooje.uk/uploads/23e23afa11585ae0079bd9e84feae01c.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/23e23afa11585ae0079bd9e84feae01c.webp",
+        "https://static.yooje.uk/uploads/424e5f0b87b50bf4b54314706d37196f.webp",
+        "https://static.yooje.uk/uploads/022d19bd2555bbc622eb2f87270f0a81.webp",
+        "https://static.yooje.uk/uploads/8426bde8ddd948d1b266f9e136f057d4.webp",
+        "https://static.yooje.uk/uploads/3155bd427142babb7325a03a681e917e.webp"
+      ]
+    },
+    {
+      "id": 31829,
+      "sku": "BC566-1-2",
+      "name": "lenvoshop Pelvic Relief ESPF Massager | No more leakage with just 15 minutes a day!",
+      "url_key": "hatmeo-pelvic-relief-espf-massager-no-more-leakage-with-just-15-minutes-a-day",
+      "price": "$39.99",
+      "raw_price": "39.9900",
+      "compare_at_price": "$79.95",
+      "description": "Revolutionary Scientific Breakthrough for Pelvic Floor Health Say Goodbye to: ✅Bladder leaks during activities like sneezing or exercising ✅Feeling of heaviness or bulging in the pelvic region ✅Back strain caused by weak pelvic floor muscles ✅Persistent discomfort or pressure in the pelvic area ✅Di",
+      "base_image": "https://static.yooje.uk/uploads/b5ce6df3759e18dec99b6191b9f7ba2a.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/b5ce6df3759e18dec99b6191b9f7ba2a.webp",
+        "https://static.yooje.uk/uploads/4923b9ff07b3fe556076ecf2db67bc88.webp",
+        "https://static.yooje.uk/uploads/97997d7ccf04d24acc646005e4f8b1ad.webp",
+        "https://static.yooje.uk/uploads/ada31e5cca50941b08031492f069e056.webp",
+        "https://static.yooje.uk/uploads/9cd62bff3221438198318f5f7292281a.webp"
+      ]
+    },
+    {
+      "id": 32251,
+      "sku": "AG161",
+      "name": "Eliminate Neck Pain, TMD, & Headaches at Home",
+      "url_key": "eliminate-neck-pain-tmd-headaches-at-home",
+      "price": "$79.99",
+      "raw_price": "79.9900",
+      "compare_at_price": "$159.98",
+      "description": "⭐⭐⭐⭐⭐ 4.8 | 12,000+ Satisfied Customers NeckRelief Pro by lenvoshop The only 3-in-1 neck massager that naturally relieves neck pain and corrects forward head posture in just 15 minutes a day. ⚡ Fast, drug-free pain relief 🔄 Restore neck's natural curvature 🔬 Backed by research experts \"To anyone",
+      "base_image": "https://static.yooje.uk/uploads/9e5f26ff164bd027de69f0c5aad75a39.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/9e5f26ff164bd027de69f0c5aad75a39.webp",
+        "https://static.yooje.uk/uploads/ad1776bce8aaca07ec5468f5d027c51e.webp",
+        "https://static.yooje.uk/uploads/01e07dd39883c9dd889b800a9944bf93.webp",
+        "https://static.yooje.uk/uploads/e10ce94d1d23df121ae1ced52b81e1bf.webp",
+        "https://static.yooje.uk/uploads/58de21417ac5217c445a55fc3122c5e6.webp"
+      ]
+    },
+    {
+      "id": 28118,
+      "sku": "AG29",
+      "name": "🌟 2-in-1 wrist and knee electric massager for instant pain relief and fast recovery.",
+      "url_key": "electric-heating-knee-pad-massager-instant-pain-relief-and-fast-recovery",
+      "price": "$46.00",
+      "raw_price": "46.0000",
+      "compare_at_price": "$108.00",
+      "description": "🌟2‑in‑1 Wrist Knee Electric Massager This product combines infrared heat and vibration massage, specially designed to relieve wrist and knee strain, carpal tunnel syndrome and arthritis pain, allowing you to restore comfort and freedom anytime, anywhere. 🌟 Core Advantages 1. Infrared Heating + Vi",
+      "base_image": "https://static.yooje.uk/uploads/oKYsloDaTSXJl7K6617EXyN6P0kxmuf7vv4l6nwT.jpg",
+      "images": [
+        "https://static.yooje.uk/uploads/oKYsloDaTSXJl7K6617EXyN6P0kxmuf7vv4l6nwT.jpg",
+        "https://static.yooje.uk/uploads/7rNRSYOiHyC29qqtcAahK6TCbn5dJuBoEFzxg3Wu.webp",
+        "https://static.yooje.uk/uploads/Egrk40anPeQTHNC0pGEVUOjK8V8pXBdsD3oHeQT3.jpg",
+        "https://static.yooje.uk/uploads/YDEQU9N6cxqUY8IorklicI35OBmDcounUHSdOWtS.jpg",
+        "https://static.yooje.uk/uploads/6d01g9V1C1wthyHGuWYe49u1GzpKVp30QItbfxix.webp"
+      ]
+    },
+    {
+      "id": 31469,
+      "sku": "BC446-2",
+      "name": "🚛 No Shipping Costs 💰-LenvoshopPurerelief - Triple Therapy Foot Massager",
+      "url_key": "no-shipping-costs-hatmeo-purerelief-triple-therapy-foot-massager-2",
+      "price": "$49.00",
+      "raw_price": "49.0000",
+      "compare_at_price": "$98.00",
+      "description": "Say Goodbye to Menopausal Foot Pain This device helps alleviate foot pain without addictive painkillers or expensive podiatrist visits. Relieves Menopausal Foot Pain Improve Blood Circulation Your Own At-Home Podiatrist The Real Root Cause of Menopausal Foot Pain The plantar fascia , just like ever",
+      "base_image": "https://static.yooje.uk/uploads/68f722c117967_1.png",
+      "images": [
+        "https://static.yooje.uk/uploads/68f722c117967_1.png",
+        "https://static.yooje.uk/uploads/68f722c1369d8_2.png",
+        "https://static.yooje.uk/uploads/68f722c11b80c_3.png",
+        "https://static.yooje.uk/uploads/68f722c11d22d_4.png",
+        "https://static.yooje.uk/uploads/68f722c11832a_5.png"
+      ]
+    },
+    {
+      "id": 31561,
+      "sku": "BC601",
+      "name": "Ultrasonic Adult Electric Toothbrush，Sonic Toothbrush 360° Oral Cleaning Wireless Charging & LED Light|IPX7 Waterproof U-Shaped Brush Head Protects Gums",
+      "url_key": "hatmeo-360-toothbrush",
+      "price": "$59.00",
+      "raw_price": "59.0000",
+      "compare_at_price": "$100.00",
+      "description": "Let's face it- brushing sucks. Most brushes miss hidden spots-And your mouth still doesn'tfeel clean after. Brushing too hard? lt can actually damage your gums You've tried strips, rinses, electric brushes.. Too harsh, too slow, too complicated. Lenvoshop 360 | The perfect solution Imagine the slic",
+      "base_image": "https://static.yooje.uk/uploads/01dbfb851d654da5afe62e059359781f.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/01dbfb851d654da5afe62e059359781f.webp",
+        "https://static.yooje.uk/uploads/171718cb229376819137ea19a49f111d.webp",
+        "https://static.yooje.uk/uploads/31664958482e3bff0825882680f4c925.webp",
+        "https://static.yooje.uk/uploads/e09d185f39e6fe66c9a43cdad15e1dc6.webp",
+        "https://static.yooje.uk/uploads/e6cde3937704ede2d030f0000cebfc6a.webp"
+      ]
+    },
+    {
+      "id": 32872,
+      "sku": "AG180",
+      "name": "Lenvoshop CO & Gas Detector – Real-Time Carbon Monoxide Detection from 0 PPM",
+      "url_key": "hatmeo-co-gas-detector-real-time-carbon-monoxide-detection-from-0-ppm",
+      "price": "$60.89",
+      "raw_price": "60.8900",
+      "compare_at_price": "$121.78",
+      "description": "CARBON MONOXIDE PROTECTION The CO detector that warns you before it s too late Real-time CO, gas propane levels from 0 PPM not 70 PPM like detectors that wait until it s already dangerous. 0 PPM Detects from 30s To install UL 2034 Certified ⚠ DID YOU KNOW Carbon monoxide is the #1 cause of accident",
+      "base_image": "https://static.yooje.uk/uploads/7e2e5c53e0c9409ba6386d7eeb6443f7.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/7e2e5c53e0c9409ba6386d7eeb6443f7.webp",
+        "https://static.yooje.uk/uploads/33d57755cf66aeb1a17cb00594c2731e.webp",
+        "https://static.yooje.uk/uploads/f3f4279f7338461ada6cf55c8351f6bb.webp",
+        "https://static.yooje.uk/uploads/5eabf487713d15ba3589bb47206f1f19.webp",
+        "https://static.yooje.uk/uploads/35332682a7c60dae7b6bfe521adfd62c.webp"
+      ]
+    },
+    {
+      "id": 32866,
+      "sku": "AG179",
+      "name": "Lenvoshop Vibration Alarm Band – Wake Up Every Time, Even If You're a Heavy Sleeper",
+      "url_key": "hatmeo-vibration-alarm-band-wake-up-every-time-even-if-you-re-a-heavy-sleeper",
+      "price": "$47.99",
+      "raw_price": "47.9900",
+      "compare_at_price": "$95.98",
+      "description": "WHAT MAKES Lenvoshop DIFFERENT? Physical vibration beats sound. Every time. BEST Lenvoshop Phone Smartwatch ✓ USED AS AN ALARM ✓ USED AS AN ALARM ✓ USED AS AN ALARM ✓ RELIABLE FOR PEOPLE WHO OVERSLEEP ✗ RELIABLE FOR PEOPLE WHO OVERSLEEP ✗ RELIABLE FOR PEOPLE WHO OVERSLEEP ✓ 14+ DAY BATTERY ✗ 14+ DA",
+      "base_image": "https://static.yooje.uk/uploads/d082be8436c8854f2b782803de3533b5.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/d082be8436c8854f2b782803de3533b5.webp",
+        "https://static.yooje.uk/uploads/2cf87718a7a67186b0cce96f2d09dc54.webp",
+        "https://static.yooje.uk/uploads/ca144526dd31a24a0d22a0bd6b68db86.webp",
+        "https://static.yooje.uk/uploads/1d67f9feb9d7f428a13e3b78f2908269.webp",
+        "https://static.yooje.uk/uploads/59fab489c693f991caf77fa344e66cf5.webp"
+      ]
+    },
+    {
+      "id": 32684,
+      "sku": "BC630-freeshipping",
+      "name": "Lenvoshophaven Carbon Monoxide Alarm | 4-in-1 Gas Carbon Monoxide Detector - Free Shipping",
+      "url_key": "hatmeo-carbon-monoxide-alarm-4-in-1-gas-carbon-monoxide-detector-free-shipping-copy",
+      "price": "$54.90",
+      "raw_price": "54.9000",
+      "compare_at_price": "$109.80",
+      "description": "Hatmeohaven is an easy-to-use CO gas detector that shows you real-time danger levels so you can protect your family before it's too late. ✅ Detects from 0 PPM Not 70 PPM like cheap detectors that wait until it's already dangerous ✅ Plug Protect No ladder, no tools, no electrician. Under 30 seconds",
+      "base_image": "https://static.yooje.uk/uploads/5c4949b34a23a7a769b6dd2c1fbb3071.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/5c4949b34a23a7a769b6dd2c1fbb3071.webp",
+        "https://static.yooje.uk/uploads/5b15a63e00947fd1b2b4ee7ba316d1b1.webp",
+        "https://static.yooje.uk/uploads/603092bceea9d0a2744b3a73586b722c.webp",
+        "https://static.yooje.uk/uploads/70d3790f9748d854aa93f46986cc67ad.webp",
+        "https://static.yooje.uk/uploads/c2320775b3d8a1b063df9a62508700fa.webp"
+      ]
+    },
+    {
+      "id": 32538,
+      "sku": "BC614",
+      "name": "Lenvoshop Pro Carbon Monoxide Detector| plug in, Check CO, Temp and Humidity, HD Screen&Indicator Visual&Audible Alert for Home RV Camping",
+      "url_key": "hatmeo-pro-carbon-monoxide-detector-plug-in-check-co-temp-and-humidity-hd-screen-indicator-visual-audible-alert-for-home-rv-camping",
+      "price": "$69.50",
+      "raw_price": "69.5000",
+      "compare_at_price": "$130.00",
+      "description": "Why Choose Lenvoshop Pro? Don't settle for outdated technology. See the difference. Is your home fully monitored? Most homeowners rely on a standard smoke detector. But smoke is only one threat. True home health is about understanding the invisible environment your family sleeps in every night. No",
+      "base_image": "https://static.yooje.uk/uploads/e05edd6752fc1bc6058ae7ed9135d9d2.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/e05edd6752fc1bc6058ae7ed9135d9d2.webp",
+        "https://static.yooje.uk/uploads/d7e68b9f2b4c03105ed2745f7f2cbea1.webp",
+        "https://static.yooje.uk/uploads/f89f798a5a2c633d6a649e0f0868b061.webp",
+        "https://static.yooje.uk/uploads/7e87cef6c529133d8fb9ad47190bc128.webp",
+        "https://static.yooje.uk/uploads/383bf10d1be274beb192dfbe36273dff.webp"
+      ]
+    },
+    {
+      "id": 32317,
+      "sku": "AG165",
+      "name": "Lenvoshop Loop Watch — Stay Connected to Your Child Anytime, Anywhere",
+      "url_key": "kidsignal-watch-stay-connected-to-your-child-anytime-anywhere",
+      "price": "$59.99",
+      "raw_price": "59.9900",
+      "compare_at_price": "$119.98",
+      "description": "🛡️ Trusted by Thousands of Parents | 🚚 Ships in 48hrs | 🔒 Lifetime Customer Support Kids Smartwatch Safety Connection HD Video Calls Hatmeo Loop Watch Stay Connected to Your Child Anytime, Anywhere The smart watch that gives kids freedom and parents peace of mind. No smartphone. No risks. Just r",
+      "base_image": "https://www.hautotool.com/uploads/dd845c1ff1dec9f2f6cd710836bdf66e.webp",
+      "images": [
+        "https://www.hautotool.com/uploads/dd845c1ff1dec9f2f6cd710836bdf66e.webp",
+        "https://www.hautotool.com/uploads/a98ea6a0f99fd2450800f9fcbf74b8c5.webp",
+        "https://static.yooje.uk/uploads/6a1301101dd7081fac8bada08389aa42.webp",
+        "https://www.hautotool.com/uploads/a8e023f4e3336fd308ab10dbcebea130.webp",
+        "https://www.hautotool.com/uploads/aed9c7bc2eea2e614c5bf19f004df77d.webp"
+      ]
+    },
+    {
+      "id": 32311,
+      "sku": "h5001",
+      "name": "Lenvoshop Anti-Spy Detector – Instantly Find Hidden Cameras & GPS Trackers",
+      "url_key": "hatmeo-anti-spy-detector-instantly-find-hidden-cameras-gps-trackers",
+      "price": "$99.99",
+      "raw_price": "99.9900",
+      "compare_at_price": "$199.99",
+      "description": "⚠️ NOTICE: This limited-time promotion is NOT available on Amazon . Click here to buy the authentic Lenvoshop Privacy Pen. Lenvoshop Privacy Security Series Don't Take the Risk. Secret Surveillance Is Closer Than You Think. The ultimate tool to expose electronic spying and keep your family safe the",
+      "base_image": "https://static.yooje.uk/uploads/e7fb61ebf2c3c1002f0b97b0ff51232a.gif",
+      "images": [
+        "https://static.yooje.uk/uploads/e7fb61ebf2c3c1002f0b97b0ff51232a.gif",
+        "https://static.yooje.uk/uploads/098f2187ca126b5685b4c9985e7a4613.gif",
+        "https://static.yooje.uk/uploads/b1129822a3c3d786ba86977e55d7d8fa.webp",
+        "https://static.yooje.uk/uploads/ad5eaa868f74b73f7ab1fd616a617eda.webp",
+        "https://static.yooje.uk/uploads/1f8b9ca5567d590f70390ca20377dd56.webp"
+      ]
+    },
+    {
+      "id": 32308,
+      "sku": "BC537",
+      "name": "Lenvoshop Air Purifier |  Filters Up To 99.9% of Pollutants, Smoke, Pollen, Dust - Quiet Air Purifiers for Bedroom",
+      "url_key": "Hatmeo-air-purifier",
+      "price": "$29.99",
+      "raw_price": "29.9900",
+      "compare_at_price": "$66.98",
+      "description": "🤧 Relieves allergy symptoms 🚫 Neutralizes mold spores and bacteria in the air 🛏️ Dust mite control 🐾 Removes pet odors and hair 🚬 Eliminates odors and smoke 🔋 Energy-saving and economical 🍃 Filter-free, quiet design ✅ Safe for children and pets Neutralizes Cigarette Smoke Quickly Smoke cling",
+      "base_image": "https://static.yooje.uk/uploads/e649bb151ec8a9d4ee47e72792e2cd9a.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/e649bb151ec8a9d4ee47e72792e2cd9a.webp",
+        "https://static.yooje.uk/uploads/018565d29c9b7db41bb24ab4958800d7.webp",
+        "https://static.yooje.uk/uploads/ae17c8cfab9639d615d5d6981c6ca073.webp",
+        "https://static.yooje.uk/uploads/c34b4b443650e966fc30e41cac292d2f.webp",
+        "https://static.yooje.uk/uploads/e5bb744341f4ac43d14232338283e207.webp"
+      ]
+    },
+    {
+      "id": 31809,
+      "sku": "BC621",
+      "name": "Lenvoshop Refrigerator Odor Remover | Ozone Disinfectant Air Purifier",
+      "url_key": "hatmeo-refrigerator-odor-remover-ozone-disinfectant-air-purifier",
+      "price": "$49.00",
+      "raw_price": "49.0000",
+      "compare_at_price": "$98.00",
+      "description": "Your refrigerator doesn t just keep food cold it hides a whole world of bacteria, mold and gases that speed up spoilage. Introducing Lenvoshop , a revolutionary air-cleaning device that brings hospital-grade hygiene straight into your fridge. Developed by a team of five scientists, Lenvoshop uses a",
+      "base_image": "https://static.yooje.uk/uploads/95fa74c94d7b1b96da25397f11bd6cab.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/95fa74c94d7b1b96da25397f11bd6cab.webp",
+        "https://www.mqqhot.com/uploads/4a4f3d7a686ae51089397c76462e0176.webp",
+        "https://static.yooje.uk/uploads/746b87aefc36c08f0943c0c15b4d86b1.webp",
+        "https://static.yooje.uk/uploads/f6b8d0fedf4bdebc686f409d2a8ce647.webp",
+        "https://www.mqqhot.com/uploads/e18ff859e5c5deca25beb526aea3b924.webp"
+      ]
+    },
+    {
+      "id": 31682,
+      "sku": "BC613",
+      "name": "Lenvoshop Privacy Pen - Professional Grade Hidden Camera & GPS Detector",
+      "url_key": "hatmeo-privacy-pen-professional-grade-hidden-camera-gps-detector",
+      "price": "$48.99",
+      "raw_price": "48.9900",
+      "compare_at_price": "$97.98",
+      "description": "Don t fall victim to privacy invasions - detect any hidden camera and feel secure in Airbnbs, hotels, changing rooms, or even your own home. ✓ Detects hidden cameras in seconds ✓ Locates GPS trackers listening devices ✓ Pocket-sized discreet design ELECTRONIC SPYING IS ON THE RISE Don t fall victim",
+      "base_image": "https://static.yooje.uk/uploads/71779571068dabcd49d3f675b516e795.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/71779571068dabcd49d3f675b516e795.webp",
+        "https://static.yooje.uk/uploads/37e523dc3b646c45c6ed4bf23743d895.webp",
+        "https://static.yooje.uk/uploads/b7e6fb4aa4da62d827c439408c4ead4b.webp",
+        "https://static.yooje.uk/uploads/bdedf7074fd33ff9719b803c55418936.webp",
+        "https://static.yooje.uk/uploads/64b678701445086dc318894eebf2ec1f.webp"
+      ]
+    },
+    {
+      "id": 31595,
+      "sku": "BC603",
+      "name": "Lenvoshop Ultrasonic Insect Repellent| Eliminate Deadly Fleas & Toxic Chemicals AUTOMATICALLY",
+      "url_key": "hatmeo-ultrasonic-insect-repellent-eliminate-deadly-fleas-toxic-chemicals-automatically",
+      "price": "$39.90",
+      "raw_price": "39.9000",
+      "compare_at_price": "$79.80",
+      "description": "The Hidden 30-to-1 Infestation Cycle Why Your Indoor Cat Has Fleas(Even Though She Never Goes Outside) \"My baby never goes outside. NOT ONCE. How does she have fleas?!\" You brought them in. On your shoes. Your bag. Through the window screen. And here's the terrifying truth: Every flea you see on yo",
+      "base_image": "https://static.yooje.uk/uploads/7aafe6e339f52af707aa6b211a960e7a.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/7aafe6e339f52af707aa6b211a960e7a.webp",
+        "https://static.yooje.uk/uploads/e2e7646fc45f16da1d727f2a1aa1a3b1.webp",
+        "https://static.yooje.uk/uploads/1cb7767c1e07542eac325d621aac8cc2.webp",
+        "https://static.yooje.uk/uploads/12f6a809a278985b63364f27d62b5817.webp",
+        "https://static.yooje.uk/uploads/1821ce0275430101cd901e9676bcb6ba.webp"
+      ]
+    },
+    {
+      "id": 27768,
+      "sku": "H909",
+      "name": "Reading Light, Rechargeable Book Light with Page Holder, 30/60 Minute Timer, Clip-on Reading Light, 3 Color Modes and 5 Adjustable Brightness Levels, Easy on the Eyes",
+      "url_key": "reading-light-rechargeable-book-light-with-page-holder-30-60-minute-timer-clip-on-reading-light-3-color-modes-and-5-adjustable-brightness-levels-easy-on-the-eyes",
+      "price": "$39.90",
+      "raw_price": "39.9000",
+      "compare_at_price": "$79.90",
+      "description": "📚 Enjoy Your Quiet Reading Time at Night Whether you're diving into a heartwarming novel or helping your child wind down for bed, the Hatmeo Multi-Function Reading Lamp creates a cozy, eye-friendly, and smart reading environment just for you. 💡 Why Choose Hatmeo? ✅ Compact and Portable, Yet Surpr",
+      "base_image": "https://static.yooje.uk/uploads/Mvi50IxL9HZTkLQgGE66eqiF7YIUMPwVtzPMUlql.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/Mvi50IxL9HZTkLQgGE66eqiF7YIUMPwVtzPMUlql.webp",
+        "https://static.yooje.uk/uploads/lq4jLITeHIUAuhKMOe7vrSKveZhZ8eUshl6XjbYq.webp",
+        "https://static.yooje.uk/uploads/tiaogs69cQsrZAVMQuDztxMlZMsVlUei1mL991MI.webp",
+        "https://static.yooje.uk/uploads/o0zOBum3sWFc2NK3kVaxeGxzs0KPlMXzv8ATkvsN.webp",
+        "https://static.yooje.uk/uploads/JPjjNHtsdiq5HGafC5HbkVJLi4oLPaVnwGbfFsqK.webp"
+      ]
+    },
+    {
+      "id": 30654,
+      "sku": "AG100",
+      "name": "Lenvoshop — Plug-in Ionic Air Purifier for Cleaner, Healthier Home Air",
+      "url_key": "hatmeo-plug-in-ionic-air-purifier-for-cleaner-healthier-home-air",
+      "price": "$49.90",
+      "raw_price": "49.9000",
+      "compare_at_price": "$89.99",
+      "description": "Lenvoshop Plug-In Air Purifier Fresh Air, Anytime Transform your home and breathe clean, healthy air all year round with Lenvoshop . This powerful plug-in purification system eliminates bacteria, viruses, unpleasant odors, and allergens helping you enjoy fresher, healthier living.（The following sho",
+      "base_image": "https://static.yooje.uk/uploads/68cd261926fad_71Zb3Dn0sAL._AC_SL1500_.jpg",
+      "images": [
+        "https://static.yooje.uk/uploads/68cd261926fad_71Zb3Dn0sAL._AC_SL1500_.jpg",
+        "https://static.yooje.uk/uploads/68cd261912f7e_81qb0IL-Z1L._AC_SX679_.jpg",
+        "https://static.yooje.uk/uploads/68cd261919968_81tr06D-vhL._AC_SX679_.jpg",
+        "https://static.yooje.uk/uploads/68cd24926015e_f709e76e-c162-4eeb-95ea-b26a431c1096.png",
+        "https://static.yooje.uk/uploads/68cd26191cb01_81uDeQwdAvL._AC_SX679_.jpg"
+      ]
+    },
+    {
+      "id": 17133,
+      "sku": "8644154786022",
+      "name": "Lenvoshop Decompression Belt",
+      "url_key": "hatmeo-decompression-belt",
+      "price": "$86.99",
+      "raw_price": "86.9900",
+      "compare_at_price": "$138.99",
+      "description": "✅ ⭐Returns 100% money back guarantee. ✅ Shipping Express worldwide shipping available. ✅ Processing time Ship within 1-3 days after payment. ✅ 🔥99.2% of customers are buying 2 sets and more!🔥 ✅ Free shipping More than $ 69 The Lenvoshop Decompression Belt is specifically designed to alleviate bac",
+      "base_image": "https://static.yooje.uk/uploads/1715156467346.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/1715156467346.webp",
+        "https://static.yooje.uk/uploads/1710904138_02.webp",
+        "https://static.yooje.uk/uploads/1710924272_03.webp",
+        "https://static.yooje.uk/uploads/1710924575_007.webp"
+      ]
+    },
+    {
+      "id": 17136,
+      "sku": "8819097272550",
+      "name": "Lenvoshop Desktop Energy-Saving Heater",
+      "url_key": "hatmeo-desktop-energy-saving-heater",
+      "price": "$59.99",
+      "raw_price": "59.9900",
+      "compare_at_price": "$109.99",
+      "description": "The Small Heater is designed for modern households, offering an efficient and eco-friendly heating solution. Whether used in the bathroom, bedroom, or on a desktop, it provides a warm and comfortable environment while saving on energy costs Efficient and Eco-Friendly Heating Energy-Efficient Perfor",
+      "base_image": "https://static.yooje.uk/uploads/a4c591f48221806af821d14eb79c6786.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/a4c591f48221806af821d14eb79c6786.webp",
+        "https://static.yooje.uk/uploads/1d6c4e50-1bb7-47d3-862b-4a8feccead87.d1860b3bdb75ddcd47e89b8a9e955281.webp",
+        "https://static.yooje.uk/uploads/5312939a-ed84-4f99-a70c-a73a8f00ba47.55703fc3dbbdddf36845fdbb8b471b49.webp",
+        "https://static.yooje.uk/uploads/beca905c-7218-4f6b-9944-3eb9a80a860a.a309d6e52a3ef4119d2dab016af7f8ba.webp",
+        "https://static.yooje.uk/uploads/87b5f443-4e86-4ceb-8c0d-7b25500db9c7.9373a46320122db7db0199be42b2c7c5.webp"
+      ]
+    },
+    {
+      "id": 17799,
+      "sku": "8530813124838",
+      "name": "Lenvoshop Home Power Saver",
+      "url_key": "hatmeo-home-power-saver",
+      "price": "$49.99",
+      "raw_price": "49.9900",
+      "compare_at_price": "$78.00",
+      "description": "STOP WASTING MONEY ON DIRTY, UNSTABLE ELECTRICITY Quickly and Easily Stabilize Your Homes Electrical Current Reduce Harmful Dirty Electricity From Your Home Protect and Prolong the Life of Your Appliances Electronics Stabilize Your Current, Remove Dirty Electricity, Slash Your Power Bill Today! Len",
+      "base_image": "https://static.yooje.uk/uploads/68ecb68b8ca10_4ff69bb7-9fcb-44d2-be1a-8964b073ec0b.f890392f5ac38a106f5bfb171f61f3b1.jpeg",
+      "images": [
+        "https://static.yooje.uk/uploads/68ecb68b8ca10_4ff69bb7-9fcb-44d2-be1a-8964b073ec0b.f890392f5ac38a106f5bfb171f61f3b1.jpeg",
+        "https://static.yooje.uk/uploads/68ecb68b8d698_8d907796-aaf4-4131-8691-c61292c90185.62a7f02b982b83ee6eee869a1e70dc18.webp",
+        "https://static.yooje.uk/uploads/Hatmeo_24a790d3-afe3-4ffc-b449-7d9841ba6790.webp",
+        "https://static.yooje.uk/uploads/68ecb68b8b92c_01b226ba-6ad7-4614-b1ae-f829d0458dc3.971cdf2a0683ad2b7bb464ae01ef6b80.webp",
+        "https://static.yooje.uk/uploads/68ecb6aa3d593_4278dcaf-10da-4eac-be4e-7152eb266ff6.9a806a5e2b13497bb7d681df4778bf5f.webp"
+      ]
+    },
+    {
+      "id": 21401,
+      "sku": "8900663116006",
+      "name": "Lenvoshop Space Heater with LED Display Remote Wall Outlet Electric Heater",
+      "url_key": "best-heaters-to-keep-warm-in-winter",
+      "price": "$49.99",
+      "raw_price": "49.9900",
+      "compare_at_price": "$99.90",
+      "description": "Powerful Heating Performance: With a powerful 2000W heating capacity, this portable electric heater is perfect for heating small to medium-sized rooms quickly and efficiently. Whether you're beating off the winter chill in your living room or need to create a cozy space in your office, this heater",
+      "base_image": "https://static.yooje.uk/uploads/719KZq-qR6L._AC_SX679_3d7be1eb-17ca-43eb-9050-ed6098d9a7f5.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/719KZq-qR6L._AC_SX679_3d7be1eb-17ca-43eb-9050-ed6098d9a7f5.webp",
+        "https://static.yooje.uk/uploads/O1CN01tgupcJ1L8NSm19PDr__2206962021254-0-cib.webp",
+        "https://static.yooje.uk/uploads/36307265-c457-4f8e-a122-3098efc95037.webp",
+        "https://static.yooje.uk/uploads/71K05igANvL._AC_SX679.webp",
+        "https://static.yooje.uk/uploads/71S_N2EPcLL._AC_SX679.webp"
+      ]
+    },
+    {
+      "id": 21831,
+      "sku": "8797054796006",
+      "name": "Lenvoshop Three-in-one laser level",
+      "url_key": "hatmeo-three-in-one-laser-level",
+      "price": "$29.90",
+      "raw_price": "29.9000",
+      "compare_at_price": "$46.68",
+      "description": "The multifunctional three-in-one laser level ruler, marker with measuring tape, infrared decoration cross-line right-angle level is a tool that integrates multiple functions in one, mainly used for precise measurement and construction. Laser Level Function: Laser Projection: The laser level project",
+      "base_image": "https://static.yooje.uk/uploads/O1CN010IQH3n1GJlCOnLfeZ__2930120602-0-cib.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/O1CN010IQH3n1GJlCOnLfeZ__2930120602-0-cib.webp",
+        "https://static.yooje.uk/uploads/O1CN01TudNGC1GJlCLYjjyk__2930120602-0-cib.webp",
+        "https://static.yooje.uk/uploads/O1CN01NHe1b11GJlC6awPoi__2930120602-0-cib.webp",
+        "https://static.yooje.uk/uploads/O1CN01of0Jyn1GJlC6absGp__2930120602-0-cib.webp",
+        "https://static.yooje.uk/uploads/O1CN01iKgE2Y1GJlCPdhYTL__2930120602-0-cib.webp"
+      ]
+    },
+    {
+      "id": 31123,
+      "sku": "AG136",
+      "name": "Ushering in a new era of pet safety: Lenvoshop GPS Collar",
+      "url_key": "ushering-in-a-new-era-of-pet-safety-hatmeo-gps-collar",
+      "price": "$129.00",
+      "raw_price": "129.0000",
+      "compare_at_price": "$258.00",
+      "description": "Track Your Pet's Location Lenvoshop uses real-time location monitoring and built-in alert features to notify you if your furry friend leaves the house or yard. Waterproof and windproof Fits pets of any size No subscription or monthly fees We answer the questions you care about most as a pet owner N",
+      "base_image": "https://static.yooje.uk/uploads/24d68b93c88bb66305f30b4709ffa6f0.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/24d68b93c88bb66305f30b4709ffa6f0.webp",
+        "https://static.yooje.uk/uploads/8bb5c6570faf01bc703b8bc20266d407.webp",
+        "https://static.yooje.uk/uploads/ba0e4978de2230d61d8aa4d95c936ceb.webp",
+        "https://static.yooje.uk/uploads/8174fbbb3ba762cd4e8860fbf65b318b.webp",
+        "https://static.yooje.uk/uploads/577c6d88f95954e4931d4fc81f4ea5bf.webp"
+      ]
+    },
+    {
+      "id": 32314,
+      "sku": "BC632",
+      "name": "Lenvoshop QuickClean | Wireless high-pressure car wash water gun, portable high-power lithium battery-powered home car wash machine",
+      "url_key": "hatmeo-aquajet-pro-wireless-high-pressure-car-wash-water-gun-portable-high-power-lithium-battery-powered-home-car-wash-machine",
+      "price": "$99.00",
+      "raw_price": "99.0000",
+      "compare_at_price": "$198.00",
+      "description": "Lenvoshop QuickClean Filthy to Fresh in Just 60 Seconds. No cords. No strain. Just clean anywhere you need it. Overview Power Without the Hassle The Lenvoshop QuickClean is a cordless, rechargeable pressure washer built for real-life cleaning. Whether you're blasting mold off a fence, rinsing a pat",
+      "base_image": "https://static.yooje.uk/uploads/c1c68382de4dd8ebc320f336e74b0fcf.webp",
+      "images": [
+        "https://static.yooje.uk/uploads/c1c68382de4dd8ebc320f336e74b0fcf.webp",
+        "https://static.yooje.uk/uploads/9a484668dc9272c491cc946b6f18136a.webp",
+        "https://static.yooje.uk/uploads/1f611d0c5644ad54e29d0f6b56521bcd.webp",
+        "https://static.yooje.uk/uploads/642ecc044e2f81ed00ee088c8089459d.webp",
+        "https://static.yooje.uk/uploads/89f643fa01c68d45dc2af946d420f02a.webp"
+      ]
+    }
+  ]
+}
